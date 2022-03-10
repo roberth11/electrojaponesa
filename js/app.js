@@ -16,6 +16,7 @@ $(document).ready(function () {
     });
     $('#slCiudad').append("<option value='' >Ciudad...<option>");
     $('#slDepartamento').append("<option value='' >Departamento...</option>");
+    $('#slBarrio').append("<option value='' >Barrio...</option>");
 
     $.getJSON('util/departamento.json', function (json) {
         $('#slDepartamento').empty()
@@ -55,6 +56,30 @@ $(document).ready(function () {
                         $('#slCiudad').append("<option value='" + data.id + "' >" + data.descripcion + "</option>");
 
                 });
+            });
+        });
+    });
+
+    $('#slCiudad').change(function () {
+        let sbIdDepartamento = $('#slDepartamento').val();
+        let sbIdCiudad = $('#slCiudad').val();
+
+        $.getJSON('util/barrios.json', function (json) {
+            $('#slBarrio').empty()
+            $('#slBarrio').append("<option value='' >Barrio...</option>");
+            $.each(json, function (key, val) {
+                if (sbIdDepartamento == key) {
+                    $.each(val, function (index, data) {
+                        $.each(data, function (key2, valor) {
+                            if (sbIdCiudad == key2) {
+                                $.each(valor, function (key3, barrio) {
+                                    $('#slBarrio').append("<option value='" + barrio.id + "' >" + barrio.descripcion + "</option>");
+
+                                });
+                            }
+                        });
+                    });
+                }
             });
         });
     });
