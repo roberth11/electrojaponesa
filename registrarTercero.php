@@ -122,8 +122,8 @@ $documento = $_SESSION["documento"];
             </div>
             <div class="col-6 mx-auto mt-3">
                 <div class="disenoInput">
-                    <label class="disenoLabel" for="txtBarrio">Barrio</label>
-                    <input type="text" id="txtBarrio" name="txtBarrio" class="form-control" data-source="barrio"/>
+                    <select class="js-example-disabled-results" id="slBarrio" name="slBarrio" maxlength="2">
+                    </select>
                 </div>
             </div>
         </div>
