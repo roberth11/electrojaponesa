@@ -25,11 +25,10 @@ class Conection
 
     private function soapConection()
     {
-
-        
         $curl = curl_init();
 
-        $prueba = array(
+
+        curl_setopt_array($curl, array(
             CURLOPT_URL => 'http://10.238.74.8/WSUNOEE/WSUNOEE.asmx?op=ImportarXML',
             CURLOPT_RETURNTRANSFER => true,
             CURLOPT_ENCODING => '',
@@ -60,13 +59,9 @@ class Conection
             CURLOPT_HTTPHEADER => array(
                 'Content-Type: text/xml;'
             ),
-        );
+        ));
 
-       curl_setopt_array($curl, $prueba);
-
-        var_dump($prueba);
         $result = curl_exec($curl);
-
 
         return $result;
     }
