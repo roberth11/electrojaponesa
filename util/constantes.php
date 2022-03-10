@@ -49,7 +49,7 @@ define("INDICADORBACKORDER", 0); //Tipo Int, Longitud 1
 define("PORCENTAJEMAXIMO", 0); //Tipo Int, Longitud 7
 define("PORCENTAJEMARGENMAXIMO", 0); //Tipo Int, Longitud 7
 define("PORCENTAJEMARGENMINIMO", 0); //Tipo Int, Longitud 7
-define("INDICADORBLOQUEADO", 0); //Tipo Int, Longitud 1
+define("INDICADORBLOQUEADO", 1); //Tipo Int, Longitud 1
 define("INDICADORBLOQUEADOCUPO", 0); //Tipo Int, Longitud 1
 define("INDICADORBLOQUEADOMORA", 0); //Tipo Int, Longitud 1
 define("INDICADORFACTURAUNIFICADA", 0); //Tipo Int, Longitud 1

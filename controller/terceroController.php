@@ -24,7 +24,6 @@ if (isset($_POST) && !empty($_POST)) {
     $barrio = strtoupper($_POST['txtBarrio']); //Tipo String, Longitud 2
     $email = strtoupper($_POST['txtCorreo']); //Tipo String, Longitud 255
     $fechaCreacion = date("Ymd"); //Tipo String, Longitud 8
-    $direccion2 = strtoupper($_POST['txtDireccion2']); //Tipo String, Longitud 8
 
     $tercero = new Tercero();
     $sucursal = new Sucursal();
@@ -43,11 +42,11 @@ if (isset($_POST) && !empty($_POST)) {
         $telefono,
         $fechaCreacion,
         $email,
-        $barrio,
-        $direccion2);
+        $barrio);
 
     $result = array();
     $result["msj"] = "false";
+
 
     if (valInsert($agregarTercero) == "1") {
         $result["msj"] = "false";

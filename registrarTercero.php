@@ -122,8 +122,8 @@ $documento = $_SESSION["documento"];
             </div>
             <div class="col-6 mx-auto mt-3">
                 <div class="disenoInput">
-                    <select class="js-example-disabled-results" id="slBarrio" name="slBarrio" maxlength="2">
-                    </select>
+                    <label class="disenoLabel" for="txtBarrio">Barrio</label>
+                    <input type="text" id="txtBarrio" name="txtBarrio" class="form-control" data-source="barrio"/>
                 </div>
             </div>
         </div>
@@ -180,27 +180,15 @@ $documento = $_SESSION["documento"];
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="subtituloSeccion modal-body">
-                Aviso de privacidad
-                ELECTROJAPONESA S.A. comunica que la información personal que se solicita
-                a través de este formulario, será tratada para las siguientes finalidades:
-                (i) Gestionar la petición, reclamo, queja, o sugerencia formulada por el titular
-                del dato. (ii) Comunicarla a las empresas que prestan los servicios o productos
-                en relación con los cuales se presenta la petición, reclamo, queja, o sugerencia,
-                cuando éstas deban dar la respuesta requerida por el cliente. (iii) Remitir al
-                titular del dato y/o peticionario la respuesta e información relacionada con su
-                petición, reclamo, queja, o sugerencia; (iv) Analizar el servicio prestado y tomar
-                acciones correctivas. El tratamiento de la información personal se realiza de acuerdo
-                con el régimen de protección de datos personales vigente en Colombia y el marco normativo
-                adoptado por la empresa.
-
-                La política de tratamiento de datos de ELECTROJAPONESA S.A puede ser consultada
-                en <a href="https://www.electrojaponesa.com/">www.electrojaponesa.com</a>, en la cual se incluyen
-                los procedimientos de consultay reclamación que le permiten hacer efectivos – en cualquier
-                momento- los derechos al acceso, conocimiento, consulta, rectificación, actualización y supresión de los
-                datos,
-                e igualmente EL CLIENTE podrá presentar Preguntas, Quejas o Reclamos (PQR´s) referida a sus
-                datos personales a través del correo electrónico servicioalcliente@electrojaponesa.com o ante
-                la Superintendencia de Industria y Comercio.
+                Al registrarse en este formulario, autoriza a Electrojaponesa S.A.
+                para enviarle información solicitada y registrar sus datos,
+                que ha suministrado de manera libre y voluntaria en su base de datos,
+                para fines comerciales, envío de estados de cuenta, cobranza,
+                transacciones financieras y mercadeo de productos,
+                los cuales serán tratados de acuerdo a lo dispuesto en la Ley 1581 de 2012
+                contentiva de la política de protección de datos.
+                De igual manera, hace constar que puede ejercer los derechos de
+                protección de dicha información ante las entidades de control estatal.
             </div>
             <div class="modal-footer">
                 <button type="button" class="btnPrincipal mx-auto" data-bs-dismiss="modal">Cerrar</button>

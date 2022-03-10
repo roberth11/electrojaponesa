@@ -4,7 +4,8 @@ require_once('../conection/soapConection.php');
 require_once('../util/util.php');
 require_once('../util/constantes.php');
 
-class Sucursal {
+class Sucursal
+{
 
     private $documentoTercero;
     private $nombres;
@@ -19,7 +20,8 @@ class Sucursal {
     private $barrio;
 
 
-    public function __construct() {
+    public function __construct()
+    {
     }
 
     public function agregarDatosSucursal(
@@ -34,7 +36,8 @@ class Sucursal {
         $fechaCreacion,
         $email,
         $barrio
-    ) {
+    )
+    {
         $this->documentoTercero = $documentoTercero;
         $this->nombres = $nombres;
         $this->apellido1 = $apellido1;
@@ -51,7 +54,8 @@ class Sucursal {
 
     }
 
-    private function insertarDatosSucursal() {
+    private function insertarDatosSucursal()
+    {
         $nombreCompleto = $this->apellido1 . " " . $this->apellido2 . " " . $this->nombres;
         $razonSocial = $nombreCompleto;
 
@@ -104,7 +108,7 @@ class Sucursal {
             llenarDatos('int', 7, VACIONINT) .
             llenarDatos('int', 2, VACIONINT) .
             llenarDatos('string', 3, VACIOSTRING) .
-            CODIGOCOBRADOR .
+            CODIGOCOBRADOR.
             VACIONINT . VACIONINT .
             llenarDatos('string', 50, VACIOSTRING) .
             VACIONINT .

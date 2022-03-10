@@ -36,32 +36,31 @@ class ApiConsulta
     <soap12:Body>
         <EjecutarConsultaXML  xmlns="http://tempuri.org/">
             <pvstrxmlParametros><![CDATA[<?xml version=\'1.0\' encoding=\'utf-8\'?>
-<Consulta>
-    <NombreConexion>UNOEE</NombreConexion>
-    <IdCia>1</IdCia>
-    <IdProveedor>UNOEE_ERP_EJP</IdProveedor>
-    <IdConsulta>CLIENTES_CONECTOR</IdConsulta>
-    <Usuario>unoee</Usuario>
-    <Clave>123456</Clave>
-    <Parametros>
-        <CEDULA>' . $this->cedula . '</CEDULA>
-    </Parametros>
-</Consulta>
-]]>
-</pvstrxmlParametros>
-</EjecutarConsultaXML>
-</soap12:Body>
+                <Consulta>
+                    <NombreConexion>UNOEE</NombreConexion>
+                	<IdCia>1</IdCia>
+                	<IdProveedor>UNOEE_ERP_EJP</IdProveedor>
+                	<IdConsulta>CLIENTES_CONECTOR</IdConsulta>
+                	<Usuario>unoee</Usuario>
+                	<Clave>123456</Clave>
+                    <Parametros>
+                    <CEDULA>' . $this->cedula . '</CEDULA>
+                    </Parametros>
+                </Consulta>
+			]]>
+        	</pvstrxmlParametros>
+    	</EjecutarConsultaXML >
+	</soap12:Body>
 </soap12:Envelope>',
-CURLOPT_HTTPHEADER => array(
-"Content-type: text/xml;charset=\"utf-8\"",
-"Accept: text/xml",
-),
-));
+            CURLOPT_HTTPHEADER => array(
+                'Content-Type: text/xml;'
+            ),
+        ));
 
-$result = curl_exec($curl);
+        $result = curl_exec($curl);
 
-return $result;
-}
+        return $result;
+    }
 }
 
 

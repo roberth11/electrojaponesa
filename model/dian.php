@@ -5,21 +5,25 @@ require_once('../util/util.php');
 require_once('../util/constantes.php');
 
 
-class Dian {
+class Dian
+{
 
     private $documentoTercero;
 
-    public function __construct() {
+    public function __construct()
+    {
     }
 
-    public function agregarDatosDian($documentoTercero) {
+    public function agregarDatosDian($documentoTercero)
+    {
         $this->documentoTercero = $documentoTercero;
 
         return $this->insertarDatosDian();
 
     }
 
-    private function insertarDatosDian() {
+    private function insertarDatosDian()
+    {
 
         $grupoEntidad = array(
             CODIGOENTIDAD1,
@@ -53,13 +57,16 @@ class Dian {
             DETALLEMAESTRO5
         );
 
+        $conection = new Conection();
+
 
         for ($i = 0; $i <= 4; $i++) {
 
             $numeroRegistro = 2;
+
             $numeroRegistro += $i;
 
-            $lineaDian = '<Linea>' . llenarDatos('int', 7, NUMEROREGISTRO . $numeroRegistro, 0) . INICIODIAN .
+            $lineaDian[$i] = '<Linea>' . llenarDatos('int', 7, NUMEROREGISTRO . $numeroRegistro, 0) . INICIODIAN .
                 llenarDatos('string', 15, $this->documentoTercero) .
                 llenarDatos('string', 185, RESERVADODIAN) .
                 CODIGOGRUPOENTIDAD .
@@ -73,17 +80,15 @@ class Dian {
                 llenarDatos('string', 8, CODIGOMAESTROINTERNO) .
                 llenarDatos('int', 4, VACIONINT) .
                 llenarDatos('string', 10, VACIOSTRING) .
-                llenarDatos('string', 100, VACIOSTRING) . '<Linea>';
+                llenarDatos('string', 100, VACIOSTRING) . '</Linea>';
 
         }
 
         $numeroRegistro += 1;
 
-        $conection = new Conection();
-
         $result = $conection->datosConexion(
             LINEAINICIO,
-            $lineaDian,
+            $lineaDian[0] . $lineaDian[1] . $lineaDian[2] . $lineaDian[3] . $lineaDian[4],
             llenarDatos('int', 7, SECUENCIAFIN . $numeroRegistro, 0) . LINEAFIN);
 
         return $result;
