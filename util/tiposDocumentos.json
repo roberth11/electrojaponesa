@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "id": "C",
+            "descripcion": "CEDULA DE CIUDADANIA"
+        },
+        {
+            "id": "D",
+            "descripcion": "TIPO DE DOCUMENTO EXTRANJERO"
+        },
+        {
+            "id": "E",
+            "descripcion": "CEDULA DE EXTRANJERIA"
+        },
+        {
+            "id": "I",
+            "descripcion": "INTERNOS"
+        },
+        {
+            "id": "M",
+            "descripcion": "INFORMACION EXOGENA"
+        },
+        {
+            "id": "N",
+            "descripcion": "NUMERO DE IDENTIFICACION TRIBUTARIA"
+        },
+        {
+            "id": "P",
+            "descripcion": "PASAPORTE"
+        },
+        {
+            "id": "R",
+            "descripcion": "REGISTRO UNICO TRIBUTARIO"
+        },
+        {
+            "id": "T",
+            "descripcion": "TARJETA DE IDENTIDAD"
+        },
+        {
+            "id": "V",
+            "descripcion": "PERMISO ESPECIAL DE PERMANENCIA"
+        }
+    ]
+}

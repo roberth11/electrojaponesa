@@ -1,0 +1,4290 @@
+{
+  "15": [
+    {
+      "id": "776",
+      "descripcion": "SUTAMARCHAN"
+    },
+    {
+      "id": "778",
+      "descripcion": "SUTATENZA"
+    },
+    {
+      "id": "790",
+      "descripcion": "TASCO"
+    },
+    {
+      "id": "798",
+      "descripcion": "TENZA"
+    },
+    {
+      "id": "804",
+      "descripcion": "TIBANA"
+    },
+    {
+      "id": "806",
+      "descripcion": "TIBASOSA"
+    },
+    {
+      "id": "808",
+      "descripcion": "TINJACA"
+    },
+    {
+      "id": "810",
+      "descripcion": "TIPACOQUE"
+    },
+    {
+      "id": "814",
+      "descripcion": "TOCA"
+    },
+    {
+      "id": "816",
+      "descripcion": "TOGUI"
+    },
+    {
+      "id": "820",
+      "descripcion": "TOPAGA"
+    },
+    {
+      "id": "822",
+      "descripcion": "TOTA"
+    },
+    {
+      "id": "832",
+      "descripcion": "TUNUNGUA"
+    },
+    {
+      "id": "835",
+      "descripcion": "TURMEQUE"
+    },
+    {
+      "id": "837",
+      "descripcion": "TUTA"
+    },
+    {
+      "id": "839",
+      "descripcion": "TUTASA"
+    },
+    {
+      "id": "842",
+      "descripcion": "UMBITA"
+    },
+    {
+      "id": "861",
+      "descripcion": "VENTAQUEMADA"
+    },
+    {
+      "id": "879",
+      "descripcion": "VIRACACHA"
+    },
+    {
+      "id": "897",
+      "descripcion": "ZETAQUIRA"
+    }
+  ],
+  "17": [
+    {
+      "id": "1",
+      "descripcion": "MANIZALES\n"
+    },
+    {
+      "id": "13",
+      "descripcion": "AGUADAS"
+    },
+    {
+      "id": "42",
+      "descripcion": "ANSERMA"
+    },
+    {
+      "id": "665",
+      "descripcion": "SAN JOSE"
+    },
+    {
+      "id": "50",
+      "descripcion": "ARANZAZU"
+    },
+    {
+      "id": "88",
+      "descripcion": "BELALCAZAR"
+    },
+    {
+      "id": "174",
+      "descripcion": "CHINCHINA"
+    },
+    {
+      "id": "272",
+      "descripcion": "FILADELFIA"
+    },
+    {
+      "id": "380",
+      "descripcion": "LA DORADA"
+    },
+    {
+      "id": "388",
+      "descripcion": "LA MERCED"
+    },
+    {
+      "id": "433",
+      "descripcion": "MANZANARES"
+    },
+    {
+      "id": "442",
+      "descripcion": "MARMATO"
+    },
+    {
+      "id": "444",
+      "descripcion": "MARQUETALIA"
+    },
+    {
+      "id": "446",
+      "descripcion": "MARULANDA"
+    },
+    {
+      "id": "486",
+      "descripcion": "NEIRA"
+    },
+    {
+      "id": "513",
+      "descripcion": "PACORA"
+    },
+    {
+      "id": "524",
+      "descripcion": "PALESTINA"
+    },
+    {
+      "id": "541",
+      "descripcion": "PENSILVANIA"
+    },
+    {
+      "id": "614",
+      "descripcion": "RIOSUCIO"
+    },
+    {
+      "id": "616",
+      "descripcion": "RISARALDA"
+    },
+    {
+      "id": "653",
+      "descripcion": "SALAMINA"
+    },
+    {
+      "id": "662",
+      "descripcion": "SAMANA"
+    },
+    {
+      "id": "777",
+      "descripcion": "SUPIA"
+    },
+    {
+      "id": "867",
+      "descripcion": "VICTORIA"
+    },
+    {
+      "id": "873",
+      "descripcion": "VILLAMARIA"
+    },
+    {
+      "id": "877",
+      "descripcion": "VITERBO"
+    }
+  ],
+  "18": [
+    {
+      "id": "1",
+      "descripcion": "FLORENCIA"
+    },
+    {
+      "id": "29",
+      "descripcion": "ALBANIA"
+    },
+    {
+      "id": "94",
+      "descripcion": "BELEN DE LOS ANDAQUIES"
+    },
+    {
+      "id": "150",
+      "descripcion": "CARTAGENA DEL CHAIRA"
+    },
+    {
+      "id": "205",
+      "descripcion": "CURILLO"
+    },
+    {
+      "id": "247",
+      "descripcion": "EL DONCELLO"
+    },
+    {
+      "id": "256",
+      "descripcion": "EL PAUJIL"
+    },
+    {
+      "id": "410",
+      "descripcion": "LA MONTA#ITA"
+    },
+    {
+      "id": "460",
+      "descripcion": "MILAN"
+    },
+    {
+      "id": "479",
+      "descripcion": "MORELIA"
+    },
+    {
+      "id": "592",
+      "descripcion": "PUERTO RICO"
+    },
+    {
+      "id": "610",
+      "descripcion": "SAN JOSE DE FRAGUA"
+    },
+    {
+      "id": "753",
+      "descripcion": "SAN VICENTE DEL CAGUAN"
+    },
+    {
+      "id": "765",
+      "descripcion": "SOLANO"
+    },
+    {
+      "id": "860",
+      "descripcion": "VALPARAISO"
+    }
+  ],
+  "19": [
+    {
+      "id": "1",
+      "descripcion": "POPAYAN"
+    },
+    {
+      "id": "22",
+      "descripcion": "ALMAGUER"
+    },
+    {
+      "id": "50",
+      "descripcion": "ARGELIA"
+    },
+    {
+      "id": "75",
+      "descripcion": "BALBOA"
+    },
+    {
+      "id": "100",
+      "descripcion": "BOLIVAR"
+    },
+    {
+      "id": "110",
+      "descripcion": "BUENOS AIRES"
+    },
+    {
+      "id": "130",
+      "descripcion": "CAJIBIO"
+    },
+    {
+      "id": "137",
+      "descripcion": "CALDONO"
+    },
+    {
+      "id": "142",
+      "descripcion": "CALOTO"
+    },
+    {
+      "id": "212",
+      "descripcion": "CORINTO"
+    },
+    {
+      "id": "256",
+      "descripcion": "EL TAMBO"
+    },
+    {
+      "id": "290",
+      "descripcion": "FLORENCIA"
+    },
+    {
+      "id": "318",
+      "descripcion": "GUAPI"
+    },
+    {
+      "id": "355",
+      "descripcion": "INZA"
+    },
+    {
+      "id": "364",
+      "descripcion": "JAMBALO"
+    },
+    {
+      "id": "392",
+      "descripcion": "LA SIERRA"
+    },
+    {
+      "id": "397",
+      "descripcion": "LA VEGA"
+    },
+    {
+      "id": "418",
+      "descripcion": "LOPEZ"
+    },
+    {
+      "id": "450",
+      "descripcion": "MERCADERES"
+    },
+    {
+      "id": "455",
+      "descripcion": "MIRANDA"
+    },
+    {
+      "id": "473",
+      "descripcion": "MORALES"
+    },
+    {
+      "id": "513",
+      "descripcion": "PADILLA"
+    },
+    {
+      "id": "517",
+      "descripcion": "PAEZ"
+    },
+    {
+      "id": "532",
+      "descripcion": "PATIA(EL BORDO)"
+    },
+    {
+      "id": "548",
+      "descripcion": "PIENDAMO"
+    },
+    {
+      "id": "573",
+      "descripcion": "PUERTO TEJADA"
+    },
+    {
+      "id": "585",
+      "descripcion": "PURACE"
+    },
+    {
+      "id": "622",
+      "descripcion": "ROSAS"
+    },
+    {
+      "id": "693",
+      "descripcion": "SAN SEBASTIAN"
+    },
+    {
+      "id": "698",
+      "descripcion": "SANTANDER DE QUILICHAO"
+    },
+    {
+      "id": "701",
+      "descripcion": "SANTA ROSA"
+    },
+    {
+      "id": "743",
+      "descripcion": "SILVIA"
+    },
+    {
+      "id": "760",
+      "descripcion": "SOTARA"
+    },
+    {
+      "id": "780",
+      "descripcion": "SUAREZ"
+    },
+    {
+      "id": "845",
+      "descripcion": "VILLA RICA"
+    },
+    {
+      "id": "807",
+      "descripcion": "TIMBIO"
+    },
+    {
+      "id": "809",
+      "descripcion": "TIMBIQUI"
+    },
+    {
+      "id": "821",
+      "descripcion": "TORIBIO"
+    },
+    {
+      "id": "824",
+      "descripcion": "TOTORO"
+    },
+    {
+      "id": "143",
+      "descripcion": "GUACHENE"
+    }
+  ],
+  "20": [
+    {
+      "id": "1",
+      "descripcion": "VALLEDUPAR"
+    },
+    {
+      "id": "11",
+      "descripcion": "AGUACHICA"
+    },
+    {
+      "id": "13",
+      "descripcion": "AGUSTIN CODAZZI"
+    },
+    {
+      "id": "32",
+      "descripcion": "ASTREA"
+    },
+    {
+      "id": "45",
+      "descripcion": "BECERRIL"
+    },
+    {
+      "id": "60",
+      "descripcion": "BOSCONIA"
+    },
+    {
+      "id": "175",
+      "descripcion": "CHIMICHAGUA"
+    },
+    {
+      "id": "178",
+      "descripcion": "CHIRIGUANA"
+    },
+    {
+      "id": "228",
+      "descripcion": "CURUMANI"
+    },
+    {
+      "id": "238",
+      "descripcion": "EL COPEY"
+    },
+    {
+      "id": "250",
+      "descripcion": "EL PASO"
+    },
+    {
+      "id": "295",
+      "descripcion": "GAMARRA"
+    },
+    {
+      "id": "310",
+      "descripcion": "GONZALEZ"
+    },
+    {
+      "id": "383",
+      "descripcion": "LA GLORIA"
+    },
+    {
+      "id": "400",
+      "descripcion": "LA JAGUA DE IBIRICO"
+    },
+    {
+      "id": "443",
+      "descripcion": "MANAURE BALCON DL CESAR"
+    },
+    {
+      "id": "517",
+      "descripcion": "PAILITAS"
+    },
+    {
+      "id": "550",
+      "descripcion": "PELAYA"
+    },
+    {
+      "id": "614",
+      "descripcion": "RIO DE ORO"
+    },
+    {
+      "id": "621",
+      "descripcion": "LA PAZ"
+    },
+    {
+      "id": "710",
+      "descripcion": "SAN ALBERTO"
+    },
+    {
+      "id": "750",
+      "descripcion": "SAN DIEGO"
+    },
+    {
+      "id": "770",
+      "descripcion": "SAN MARTIN"
+    },
+    {
+      "id": "787",
+      "descripcion": "TAMALAMEQUE"
+    }
+  ],
+  "23": [
+    {
+      "id": "1",
+      "descripcion": "MONTERIA"
+    },
+    {
+      "id": "68",
+      "descripcion": "AYAPEL"
+    },
+    {
+      "id": "79",
+      "descripcion": "BUENAVISTA"
+    },
+    {
+      "id": "90",
+      "descripcion": "CANALETE"
+    },
+    {
+      "id": "162",
+      "descripcion": "CERETE"
+    },
+    {
+      "id": "168",
+      "descripcion": "CHIMA"
+    },
+    {
+      "id": "182",
+      "descripcion": "CHINU"
+    },
+    {
+      "id": "189",
+      "descripcion": "CIENAGA DE ORO"
+    },
+    {
+      "id": "417",
+      "descripcion": "LORICA"
+    },
+    {
+      "id": "419",
+      "descripcion": "LOS CORDOBAS"
+    },
+    {
+      "id": "464",
+      "descripcion": "MOMIL"
+    },
+    {
+      "id": "466",
+      "descripcion": "MONTELIBANO"
+    },
+    {
+      "id": "500",
+      "descripcion": "MO#ITOS"
+    },
+    {
+      "id": "555",
+      "descripcion": "PLANETA RICA"
+    },
+    {
+      "id": "570",
+      "descripcion": "PUEBLO NUEVO"
+    },
+    {
+      "id": "574",
+      "descripcion": "PUERTO ESCONDIDO"
+    },
+    {
+      "id": "580",
+      "descripcion": "PUERTO LIBERTADOR"
+    },
+    {
+      "id": "586",
+      "descripcion": "PURISIMA"
+    },
+    {
+      "id": "660",
+      "descripcion": "SAHAGUN"
+    },
+    {
+      "id": "670",
+      "descripcion": "SAN ANDRES SOTAVENTO"
+    },
+    {
+      "id": "672",
+      "descripcion": "SAN ANTERO"
+    },
+    {
+      "id": "675",
+      "descripcion": "SAN BERNARDO DEL VIENTO"
+    },
+    {
+      "id": "678",
+      "descripcion": "SAN CARLOS"
+    },
+    {
+      "id": "686",
+      "descripcion": "SAN PELAYO"
+    },
+    {
+      "id": "807",
+      "descripcion": "TIERRALTA"
+    },
+    {
+      "id": "855",
+      "descripcion": "VALENCIA"
+    }
+  ],
+  "25": [
+    {
+      "id": "1",
+      "descripcion": "AGUA DE DIOS"
+    },
+    {
+      "id": "19",
+      "descripcion": "ALBAN"
+    },
+    {
+      "id": "35",
+      "descripcion": "ANAPOIMA"
+    },
+    {
+      "id": "40",
+      "descripcion": "ANOLAIMA"
+    },
+    {
+      "id": "53",
+      "descripcion": "ARBELAEZ"
+    },
+    {
+      "id": "86",
+      "descripcion": "BELTRAN"
+    },
+    {
+      "id": "95",
+      "descripcion": "BITUIMA"
+    },
+    {
+      "id": "99",
+      "descripcion": "BOJACA"
+    },
+    {
+      "id": "120",
+      "descripcion": "CABRERA"
+    },
+    {
+      "id": "123",
+      "descripcion": "CACHIPAY"
+    },
+    {
+      "id": "126",
+      "descripcion": "CAJICA"
+    },
+    {
+      "id": "148",
+      "descripcion": "CAPARRAPI"
+    },
+    {
+      "id": "151",
+      "descripcion": "CAQUEZA"
+    },
+    {
+      "id": "154",
+      "descripcion": "CARMEN DE CARUPA"
+    },
+    {
+      "id": "168",
+      "descripcion": "CHAGUANI"
+    },
+    {
+      "id": "175",
+      "descripcion": "CHIA"
+    },
+    {
+      "id": "178",
+      "descripcion": "CHIPAQUE"
+    },
+    {
+      "id": "181",
+      "descripcion": "CHOACHI"
+    },
+    {
+      "id": "183",
+      "descripcion": "CHOCONTA"
+    },
+    {
+      "id": "200",
+      "descripcion": "COGUA"
+    },
+    {
+      "id": "214",
+      "descripcion": "COTA"
+    },
+    {
+      "id": "224",
+      "descripcion": "CUCUNUBA"
+    },
+    {
+      "id": "245",
+      "descripcion": "EL COLEGIO"
+    },
+    {
+      "id": "258",
+      "descripcion": "EL PENON"
+    },
+    {
+      "id": "269",
+      "descripcion": "FACATATIVA"
+    },
+    {
+      "id": "279",
+      "descripcion": "FOMEQUE"
+    },
+    {
+      "id": "281",
+      "descripcion": "FOSCA"
+    },
+    {
+      "id": "286",
+      "descripcion": "FUNZA"
+    },
+    {
+      "id": "288",
+      "descripcion": "FUQUENE"
+    },
+    {
+      "id": "290",
+      "descripcion": "FUSAGASUGA"
+    },
+    {
+      "id": "293",
+      "descripcion": "GACHALA"
+    },
+    {
+      "id": "295",
+      "descripcion": "GACHANCIPA"
+    },
+    {
+      "id": "297",
+      "descripcion": "GACHETA"
+    },
+    {
+      "id": "299",
+      "descripcion": "GAMA"
+    },
+    {
+      "id": "307",
+      "descripcion": "GIRARDOT"
+    },
+    {
+      "id": "317",
+      "descripcion": "GUACHETA"
+    },
+    {
+      "id": "320",
+      "descripcion": "GUADUAS"
+    },
+    {
+      "id": "322",
+      "descripcion": "GUASCA"
+    },
+    {
+      "id": "324",
+      "descripcion": "GUATAQUI"
+    },
+    {
+      "id": "326",
+      "descripcion": "GUATAVITA"
+    },
+    {
+      "id": "328",
+      "descripcion": "GUAYABAL DE SIQUIMA"
+    },
+    {
+      "id": "335",
+      "descripcion": "GUAYABETAL"
+    },
+    {
+      "id": "339",
+      "descripcion": "GUTIERREZ"
+    },
+    {
+      "id": "368",
+      "descripcion": "JERUSALEN"
+    },
+    {
+      "id": "372",
+      "descripcion": "JUNIN"
+    },
+    {
+      "id": "377",
+      "descripcion": "LA CALERA"
+    },
+    {
+      "id": "386",
+      "descripcion": "LA MESA"
+    },
+    {
+      "id": "394",
+      "descripcion": "LA PALMA"
+    },
+    {
+      "id": "398",
+      "descripcion": "LA PE A"
+    },
+    {
+      "id": "402",
+      "descripcion": "LA VEGA"
+    },
+    {
+      "id": "407",
+      "descripcion": "LENGUAZAQUE"
+    },
+    {
+      "id": "426",
+      "descripcion": "MACHETA"
+    },
+    {
+      "id": "430",
+      "descripcion": "MADRID"
+    },
+    {
+      "id": "436",
+      "descripcion": "MANTA"
+    },
+    {
+      "id": "438",
+      "descripcion": "MEDINA"
+    },
+    {
+      "id": "473",
+      "descripcion": "MOSQUERA"
+    },
+    {
+      "id": "483",
+      "descripcion": "NARI#O"
+    },
+    {
+      "id": "486",
+      "descripcion": "NEMOCON"
+    },
+    {
+      "id": "488",
+      "descripcion": "NILO"
+    },
+    {
+      "id": "489",
+      "descripcion": "NIMAIMA"
+    },
+    {
+      "id": "491",
+      "descripcion": "NOCAIMA"
+    },
+    {
+      "id": "506",
+      "descripcion": "VENECIA"
+    },
+    {
+      "id": "513",
+      "descripcion": "PACHO"
+    },
+    {
+      "id": "518",
+      "descripcion": "PAIME"
+    },
+    {
+      "id": "524",
+      "descripcion": "PANDI"
+    },
+    {
+      "id": "530",
+      "descripcion": "PARATEBUENO"
+    },
+    {
+      "id": "535",
+      "descripcion": "PASCA"
+    },
+    {
+      "id": "572",
+      "descripcion": "PUERTO SALGAR"
+    },
+    {
+      "id": "580",
+      "descripcion": "PULI"
+    },
+    {
+      "id": "592",
+      "descripcion": "QUEBRADANEGRA"
+    },
+    {
+      "id": "594",
+      "descripcion": "QUETAME"
+    },
+    {
+      "id": "596",
+      "descripcion": "QUIPILE"
+    },
+    {
+      "id": "599",
+      "descripcion": "APULO"
+    },
+    {
+      "id": "612",
+      "descripcion": "RICAURTE"
+    },
+    {
+      "id": "645",
+      "descripcion": "S.ANTONIO TEQUENDAMA"
+    },
+    {
+      "id": "649",
+      "descripcion": "SAN BERNARDO"
+    },
+    {
+      "id": "653",
+      "descripcion": "SAN CAYETANO"
+    },
+    {
+      "id": "658",
+      "descripcion": "SAN FRANCISCO"
+    },
+    {
+      "id": "662",
+      "descripcion": "SAN JUAN DE RIO SECO"
+    },
+    {
+      "id": "718",
+      "descripcion": "SASAIMA"
+    },
+    {
+      "id": "736",
+      "descripcion": "SESQUILE"
+    },
+    {
+      "id": "740",
+      "descripcion": "SIBATE"
+    },
+    {
+      "id": "743",
+      "descripcion": "SILVANIA"
+    },
+    {
+      "id": "745",
+      "descripcion": "SIMIJACA"
+    },
+    {
+      "id": "754",
+      "descripcion": "SOACHA"
+    },
+    {
+      "id": "758",
+      "descripcion": "SOPO"
+    },
+    {
+      "id": "769",
+      "descripcion": "SUBACHOQUE"
+    },
+    {
+      "id": "772",
+      "descripcion": "SUESCA"
+    },
+    {
+      "id": "777",
+      "descripcion": "SUPATA"
+    },
+    {
+      "id": "779",
+      "descripcion": "SUSA"
+    },
+    {
+      "id": "781",
+      "descripcion": "SUTATAUSA"
+    },
+    {
+      "id": "785",
+      "descripcion": "TABIO"
+    },
+    {
+      "id": "793",
+      "descripcion": "TAUSA"
+    },
+    {
+      "id": "797",
+      "descripcion": "TENA"
+    },
+    {
+      "id": "799",
+      "descripcion": "TENJO"
+    },
+    {
+      "id": "805",
+      "descripcion": "TIBACUY"
+    },
+    {
+      "id": "807",
+      "descripcion": "TIBIRITA"
+    },
+    {
+      "id": "815",
+      "descripcion": "TOCAIMA"
+    },
+    {
+      "id": "817",
+      "descripcion": "TOCANCIPA"
+    },
+    {
+      "id": "823",
+      "descripcion": "TOPAIPI"
+    },
+    {
+      "id": "839",
+      "descripcion": "UBALA"
+    },
+    {
+      "id": "841",
+      "descripcion": "UBAQUE"
+    },
+    {
+      "id": "843",
+      "descripcion": "UBATE"
+    },
+    {
+      "id": "845",
+      "descripcion": "UNE"
+    },
+    {
+      "id": "851",
+      "descripcion": "UTICA"
+    },
+    {
+      "id": "862",
+      "descripcion": "VERGARA"
+    },
+    {
+      "id": "867",
+      "descripcion": "VIANI"
+    },
+    {
+      "id": "871",
+      "descripcion": "VILLAGOMEZ"
+    },
+    {
+      "id": "873",
+      "descripcion": "VILLAPINZON"
+    },
+    {
+      "id": "875",
+      "descripcion": "VILLETA"
+    },
+    {
+      "id": "878",
+      "descripcion": "VIOTA"
+    },
+    {
+      "id": "885",
+      "descripcion": "YACOPI"
+    },
+    {
+      "id": "898",
+      "descripcion": "ZIPACON"
+    },
+    {
+      "id": "899",
+      "descripcion": "ZIPAQUIRA"
+    }
+  ],
+  "27": [
+    {
+      "id": "1",
+      "descripcion": "QUIBDO"
+    },
+    {
+      "id": "6",
+      "descripcion": "ACANDI"
+    },
+    {
+      "id": "25",
+      "descripcion": "ALTO BAUDO"
+    },
+    {
+      "id": "73",
+      "descripcion": "BAGADO"
+    },
+    {
+      "id": "75",
+      "descripcion": "BAHIA SOLANO"
+    },
+    {
+      "id": "77",
+      "descripcion": "BAJO BAUDO"
+    },
+    {
+      "id": "99",
+      "descripcion": "BOJAYA"
+    },
+    {
+      "id": "205",
+      "descripcion": "CONDOTO"
+    },
+    {
+      "id": "245",
+      "descripcion": "EL CARMEN"
+    },
+    {
+      "id": "250",
+      "descripcion": "EL LITORAL DEL SAN JUAN"
+    },
+    {
+      "id": "361",
+      "descripcion": "ITSMINA"
+    },
+    {
+      "id": "372",
+      "descripcion": "JURADO"
+    },
+    {
+      "id": "413",
+      "descripcion": "LLORO"
+    },
+    {
+      "id": "491",
+      "descripcion": "NOVITA"
+    },
+    {
+      "id": "495",
+      "descripcion": "NUQUI"
+    },
+    {
+      "id": "615",
+      "descripcion": "RIOSUCIO"
+    },
+    {
+      "id": "660",
+      "descripcion": "SAN JOSE DEL PALMAR"
+    },
+    {
+      "id": "745",
+      "descripcion": "SIPI"
+    },
+    {
+      "id": "787",
+      "descripcion": "TADO"
+    },
+    {
+      "id": "800",
+      "descripcion": "UNGUIA"
+    }
+  ],
+  "41": [
+    {
+      "id": "1",
+      "descripcion": "NEIVA"
+    },
+    {
+      "id": "6",
+      "descripcion": "ACEVEDO"
+    },
+    {
+      "id": "13",
+      "descripcion": "AGRADO"
+    },
+    {
+      "id": "16",
+      "descripcion": "AIPE"
+    },
+    {
+      "id": "20",
+      "descripcion": "ALGECIRAS"
+    },
+    {
+      "id": "26",
+      "descripcion": "ALTAMIRA"
+    },
+    {
+      "id": "78",
+      "descripcion": "BARAYA"
+    },
+    {
+      "id": "132",
+      "descripcion": "CAMPOALEGRE"
+    },
+    {
+      "id": "206",
+      "descripcion": "COLOMBIA"
+    },
+    {
+      "id": "244",
+      "descripcion": "ELIAS"
+    },
+    {
+      "id": "298",
+      "descripcion": "GARZON"
+    },
+    {
+      "id": "306",
+      "descripcion": "GIGANTE"
+    },
+    {
+      "id": "319",
+      "descripcion": "GUADALUPE"
+    },
+    {
+      "id": "349",
+      "descripcion": "HOBO"
+    },
+    {
+      "id": "357",
+      "descripcion": "IQUIRA"
+    },
+    {
+      "id": "359",
+      "descripcion": "ISNOS"
+    },
+    {
+      "id": "378",
+      "descripcion": "LA ARGENTINA"
+    },
+    {
+      "id": "396",
+      "descripcion": "LA PLATA"
+    },
+    {
+      "id": "483",
+      "descripcion": "NATAGA"
+    },
+    {
+      "id": "503",
+      "descripcion": "OPORAPA"
+    },
+    {
+      "id": "518",
+      "descripcion": "PAICOL"
+    },
+    {
+      "id": "524",
+      "descripcion": "PALERMO"
+    },
+    {
+      "id": "530",
+      "descripcion": "PALESTINA"
+    },
+    {
+      "id": "548",
+      "descripcion": "PITAL"
+    },
+    {
+      "id": "551",
+      "descripcion": "PITALITO"
+    },
+    {
+      "id": "615",
+      "descripcion": "RIVERA"
+    },
+    {
+      "id": "660",
+      "descripcion": "SALADOBLANCO"
+    },
+    {
+      "id": "668",
+      "descripcion": "SAN AGUSTIN"
+    },
+    {
+      "id": "676",
+      "descripcion": "SANTA MARIA"
+    },
+    {
+      "id": "770",
+      "descripcion": "SUAZA"
+    },
+    {
+      "id": "791",
+      "descripcion": "TARQUI"
+    },
+    {
+      "id": "797",
+      "descripcion": "TESALIA"
+    },
+    {
+      "id": "799",
+      "descripcion": "TELLO"
+    },
+    {
+      "id": "801",
+      "descripcion": "TERUEL"
+    },
+    {
+      "id": "807",
+      "descripcion": "TIMANA"
+    },
+    {
+      "id": "872",
+      "descripcion": "VILLAVIEJA"
+    },
+    {
+      "id": "885",
+      "descripcion": "YAGUARA"
+    }
+  ],
+  "44": [
+    {
+      "id": "1",
+      "descripcion": "RIOHACHA"
+    },
+    {
+      "id": "78",
+      "descripcion": "BARRANCAS"
+    },
+    {
+      "id": "110",
+      "descripcion": "EL MOLINO"
+    },
+    {
+      "id": "279",
+      "descripcion": "FONSECA"
+    },
+    {
+      "id": "430",
+      "descripcion": "MAICAO"
+    },
+    {
+      "id": "560",
+      "descripcion": "MANAURE"
+    },
+    {
+      "id": "650",
+      "descripcion": "SAN JUAN DEL CESAR"
+    },
+    {
+      "id": "847",
+      "descripcion": "URIBIA"
+    },
+    {
+      "id": "855",
+      "descripcion": "URUMITA"
+    },
+    {
+      "id": "874",
+      "descripcion": "VILLANUEVA"
+    }
+  ],
+  "47": [
+    {
+      "id": "1",
+      "descripcion": "SANTA MARTA"
+    },
+    {
+      "id": "53",
+      "descripcion": "ARACATACA"
+    },
+    {
+      "id": "58",
+      "descripcion": "ARIGUANI"
+    },
+    {
+      "id": "161",
+      "descripcion": "CERRO SAN ANTONIO"
+    },
+    {
+      "id": "170",
+      "descripcion": "CHIVOLO"
+    },
+    {
+      "id": "189",
+      "descripcion": "CIENAGA"
+    },
+    {
+      "id": "245",
+      "descripcion": "EL BANCO"
+    },
+    {
+      "id": "258",
+      "descripcion": "EL PI#ON"
+    },
+    {
+      "id": "288",
+      "descripcion": "FUNDACION"
+    },
+    {
+      "id": "318",
+      "descripcion": "GUAMAL"
+    },
+    {
+      "id": "541",
+      "descripcion": "PEDRAZA"
+    },
+    {
+      "id": "551",
+      "descripcion": "PIVIJAY"
+    },
+    {
+      "id": "555",
+      "descripcion": "PLATO"
+    },
+    {
+      "id": "570",
+      "descripcion": "PUEBLOVIEJO"
+    },
+    {
+      "id": "605",
+      "descripcion": "REMOLINO"
+    },
+    {
+      "id": "675",
+      "descripcion": "SALAMINA"
+    },
+    {
+      "id": "692",
+      "descripcion": "SAN SEBASTIAN BUENAVIST"
+    },
+    {
+      "id": "703",
+      "descripcion": "SAN ZENON"
+    },
+    {
+      "id": "707",
+      "descripcion": "SANTA ANA"
+    },
+    {
+      "id": "745",
+      "descripcion": "SITIONUEVO"
+    },
+    {
+      "id": "798",
+      "descripcion": "TENERIFE"
+    }
+  ],
+  "50": [
+    {
+      "id": "1",
+      "descripcion": "VILLAVICENCIO"
+    },
+    {
+      "id": "6",
+      "descripcion": "ACACIAS"
+    },
+    {
+      "id": "110",
+      "descripcion": "BARRANCA DE UPIA"
+    },
+    {
+      "id": "124",
+      "descripcion": "CABUYARO"
+    },
+    {
+      "id": "150",
+      "descripcion": "CASTILLA LA NUEVA"
+    },
+    {
+      "id": "223",
+      "descripcion": "CUBARRAL"
+    },
+    {
+      "id": "226",
+      "descripcion": "CUMARAL"
+    },
+    {
+      "id": "245",
+      "descripcion": "EL CALVARIO"
+    },
+    {
+      "id": "251",
+      "descripcion": "EL CASTILLO"
+    },
+    {
+      "id": "270",
+      "descripcion": "EL DORADO"
+    },
+    {
+      "id": "287",
+      "descripcion": "FUENTE DE ORO"
+    },
+    {
+      "id": "313",
+      "descripcion": "GRANADA"
+    },
+    {
+      "id": "318",
+      "descripcion": "GUAMAL"
+    },
+    {
+      "id": "325",
+      "descripcion": "MAPIRIPAN"
+    },
+    {
+      "id": "330",
+      "descripcion": "MESETAS"
+    },
+    {
+      "id": "350",
+      "descripcion": "LA MACARENA"
+    },
+    {
+      "id": "370",
+      "descripcion": "LA URIBE"
+    },
+    {
+      "id": "400",
+      "descripcion": "LEJANIAS"
+    },
+    {
+      "id": "450",
+      "descripcion": "PUERTO CONCORDIA"
+    },
+    {
+      "id": "568",
+      "descripcion": "PUERTO GAITAN"
+    },
+    {
+      "id": "573",
+      "descripcion": "PUERTO LOPEZ"
+    },
+    {
+      "id": "577",
+      "descripcion": "PUERTO LLERAS"
+    },
+    {
+      "id": "590",
+      "descripcion": "PUERTO RICO"
+    },
+    {
+      "id": "606",
+      "descripcion": "RESTREPO"
+    },
+    {
+      "id": "680",
+      "descripcion": "SAN CARLOS GUAROA"
+    },
+    {
+      "id": "683",
+      "descripcion": "SAN JUAN DE ARAMA"
+    },
+    {
+      "id": "686",
+      "descripcion": "SAN JUANITO"
+    },
+    {
+      "id": "689",
+      "descripcion": "SAN MARTIN"
+    },
+    {
+      "id": "711",
+      "descripcion": "VISTA HERMOSA"
+    }
+  ],
+  "52": [
+    {
+      "id": "1",
+      "descripcion": "PASTO"
+    },
+    {
+      "id": "19",
+      "descripcion": "ALBAN"
+    },
+    {
+      "id": "22",
+      "descripcion": "ALDANA"
+    },
+    {
+      "id": "36",
+      "descripcion": "ANCUYA"
+    },
+    {
+      "id": "51",
+      "descripcion": "ARBOLEDA"
+    },
+    {
+      "id": "79",
+      "descripcion": "BARBACOAS"
+    },
+    {
+      "id": "83",
+      "descripcion": "BELEN"
+    },
+    {
+      "id": "110",
+      "descripcion": "BUESACO"
+    },
+    {
+      "id": "203",
+      "descripcion": "COLON"
+    },
+    {
+      "id": "207",
+      "descripcion": "CONSACA"
+    },
+    {
+      "id": "210",
+      "descripcion": "CONTADERO"
+    },
+    {
+      "id": "215",
+      "descripcion": "CORDOBA"
+    },
+    {
+      "id": "224",
+      "descripcion": "CUASPUD"
+    },
+    {
+      "id": "227",
+      "descripcion": "CUMBAL"
+    },
+    {
+      "id": "233",
+      "descripcion": "CUMBITARA"
+    },
+    {
+      "id": "240",
+      "descripcion": "CHACHAGUI"
+    },
+    {
+      "id": "250",
+      "descripcion": "EL CHARCO"
+    },
+    {
+      "id": "256",
+      "descripcion": "EL ROSARIO"
+    },
+    {
+      "id": "258",
+      "descripcion": "EL TABLON"
+    },
+    {
+      "id": "260",
+      "descripcion": "EL TAMBO"
+    },
+    {
+      "id": "287",
+      "descripcion": "FUNES"
+    },
+    {
+      "id": "317",
+      "descripcion": "GUACHUCAL"
+    },
+    {
+      "id": "320",
+      "descripcion": "GUAITARILLA"
+    },
+    {
+      "id": "323",
+      "descripcion": "GUALMATAN"
+    },
+    {
+      "id": "352",
+      "descripcion": "ILES"
+    },
+    {
+      "id": "354",
+      "descripcion": "IMUES"
+    },
+    {
+      "id": "356",
+      "descripcion": "IPIALES"
+    },
+    {
+      "id": "378",
+      "descripcion": "LA CRUZ"
+    },
+    {
+      "id": "381",
+      "descripcion": "LA FLORIDA"
+    },
+    {
+      "id": "385",
+      "descripcion": "LA LLANADA"
+    },
+    {
+      "id": "390",
+      "descripcion": "LA TOLA"
+    },
+    {
+      "id": "399",
+      "descripcion": "LA UNION"
+    },
+    {
+      "id": "405",
+      "descripcion": "LEIVA"
+    },
+    {
+      "id": "411",
+      "descripcion": "LINARES"
+    },
+    {
+      "id": "418",
+      "descripcion": "LOS ANDES"
+    },
+    {
+      "id": "427",
+      "descripcion": "MAGUI"
+    },
+    {
+      "id": "435",
+      "descripcion": "MALLAMA"
+    },
+    {
+      "id": "473",
+      "descripcion": "MOSQUERA"
+    },
+    {
+      "id": "490",
+      "descripcion": "OLAYA HERRERA"
+    },
+    {
+      "id": "506",
+      "descripcion": "OSPINA"
+    },
+    {
+      "id": "520",
+      "descripcion": "FRANCIS PIZARRO"
+    },
+    {
+      "id": "540",
+      "descripcion": "POLICARPA"
+    },
+    {
+      "id": "560",
+      "descripcion": "POTOSI"
+    },
+    {
+      "id": "565",
+      "descripcion": "PROVIDENCIA"
+    },
+    {
+      "id": "573",
+      "descripcion": "PUERRES"
+    },
+    {
+      "id": "585",
+      "descripcion": "PUPIALES"
+    },
+    {
+      "id": "612",
+      "descripcion": "RICAURTE"
+    },
+    {
+      "id": "621",
+      "descripcion": "ROBERTO PAYAN"
+    },
+    {
+      "id": "678",
+      "descripcion": "SAMANIEGO"
+    },
+    {
+      "id": "683",
+      "descripcion": "SANDONA"
+    },
+    {
+      "id": "685",
+      "descripcion": "SAN BERNARDO"
+    },
+    {
+      "id": "687",
+      "descripcion": "SAN LORENZO"
+    },
+    {
+      "id": "693",
+      "descripcion": "SAN PABLO"
+    },
+    {
+      "id": "694",
+      "descripcion": "SAN PEDRO DE CARTAGO"
+    },
+    {
+      "id": "696",
+      "descripcion": "SANTA BARBARA"
+    },
+    {
+      "id": "699",
+      "descripcion": "SANTACRUZ"
+    },
+    {
+      "id": "720",
+      "descripcion": "SAPUYES"
+    },
+    {
+      "id": "786",
+      "descripcion": "TAMINANGO"
+    },
+    {
+      "id": "788",
+      "descripcion": "TANGUA"
+    },
+    {
+      "id": "835",
+      "descripcion": "TUMACO"
+    },
+    {
+      "id": "838",
+      "descripcion": "TUQUERRES"
+    },
+    {
+      "id": "885",
+      "descripcion": "YACUANQUER"
+    }
+  ],
+  "54": [
+    {
+      "id": "1",
+      "descripcion": "CUCUTA"
+    },
+    {
+      "id": "3",
+      "descripcion": "ABREGO"
+    },
+    {
+      "id": "51",
+      "descripcion": "ARBOLEDAS"
+    },
+    {
+      "id": "99",
+      "descripcion": "BOCHALEMA"
+    },
+    {
+      "id": "109",
+      "descripcion": "BUCARASICA"
+    },
+    {
+      "id": "125",
+      "descripcion": "CACOTA"
+    },
+    {
+      "id": "128",
+      "descripcion": "CACHIRA"
+    },
+    {
+      "id": "172",
+      "descripcion": "CHINACOTA"
+    },
+    {
+      "id": "174",
+      "descripcion": "CHITAGA"
+    },
+    {
+      "id": "206",
+      "descripcion": "CONVENCION"
+    },
+    {
+      "id": "223",
+      "descripcion": "CUCUTILLA"
+    },
+    {
+      "id": "239",
+      "descripcion": "DURANIA"
+    },
+    {
+      "id": "245",
+      "descripcion": "EL CARMEN"
+    },
+    {
+      "id": "250",
+      "descripcion": "EL TARRA"
+    },
+    {
+      "id": "261",
+      "descripcion": "EL ZULIA"
+    },
+    {
+      "id": "313",
+      "descripcion": "GRAMALOTE"
+    },
+    {
+      "id": "344",
+      "descripcion": "HACARI"
+    },
+    {
+      "id": "347",
+      "descripcion": "HERRAN"
+    },
+    {
+      "id": "377",
+      "descripcion": "LABATECA"
+    },
+    {
+      "id": "398",
+      "descripcion": "LA PLAYA"
+    },
+    {
+      "id": "405",
+      "descripcion": "LOS PATIOS"
+    },
+    {
+      "id": "418",
+      "descripcion": "LOURDES"
+    },
+    {
+      "id": "480",
+      "descripcion": "MUTISCUA"
+    },
+    {
+      "id": "498",
+      "descripcion": "OCA#A"
+    },
+    {
+      "id": "518",
+      "descripcion": "PAMPLONA"
+    },
+    {
+      "id": "520",
+      "descripcion": "PAMPLONITA"
+    },
+    {
+      "id": "599",
+      "descripcion": "RAGONVALIA"
+    },
+    {
+      "id": "660",
+      "descripcion": "SALAZAR"
+    },
+    {
+      "id": "670",
+      "descripcion": "SAN CALIXTO"
+    },
+    {
+      "id": "673",
+      "descripcion": "SAN CAYETANO"
+    },
+    {
+      "id": "680",
+      "descripcion": "SANTIAGO"
+    },
+    {
+      "id": "720",
+      "descripcion": "SARDINATA"
+    },
+    {
+      "id": "743",
+      "descripcion": "SILOS"
+    },
+    {
+      "id": "800",
+      "descripcion": "TEORAMA"
+    },
+    {
+      "id": "810",
+      "descripcion": "TIBU"
+    },
+    {
+      "id": "820",
+      "descripcion": "TOLEDO"
+    },
+    {
+      "id": "871",
+      "descripcion": "VILLA CARO"
+    },
+    {
+      "id": "874",
+      "descripcion": "VILLA DEL ROSARIO"
+    }
+  ],
+  "63": [
+    {
+      "id": "1",
+      "descripcion": "ARMENIA"
+    },
+    {
+      "id": "111",
+      "descripcion": "BUENAVISTA"
+    },
+    {
+      "id": "130",
+      "descripcion": "CALARCA"
+    },
+    {
+      "id": "190",
+      "descripcion": "CIRCASIA"
+    },
+    {
+      "id": "212",
+      "descripcion": "CORDOBA"
+    },
+    {
+      "id": "272",
+      "descripcion": "FILANDIA"
+    },
+    {
+      "id": "302",
+      "descripcion": "GENOVA"
+    },
+    {
+      "id": "401",
+      "descripcion": "LA TEBAIDA"
+    },
+    {
+      "id": "470",
+      "descripcion": "MONTENEGRO"
+    },
+    {
+      "id": "548",
+      "descripcion": "PIJAO"
+    },
+    {
+      "id": "594",
+      "descripcion": "QUIMBAYA"
+    },
+    {
+      "id": "59",
+      "descripcion": "ARMENIA"
+    },
+    {
+      "id": "690",
+      "descripcion": "SALENTO"
+    }
+  ],
+  "66": [
+    {
+      "id": "1",
+      "descripcion": "PEREIRA"
+    },
+    {
+      "id": "45",
+      "descripcion": "APIA"
+    },
+    {
+      "id": "75",
+      "descripcion": "BALBOA"
+    },
+    {
+      "id": "88",
+      "descripcion": "BELEN DE UMBRIA"
+    },
+    {
+      "id": "170",
+      "descripcion": "DOS QUEBRADAS"
+    },
+    {
+      "id": "318",
+      "descripcion": "GUATICA"
+    },
+    {
+      "id": "383",
+      "descripcion": "LA CELIA"
+    },
+    {
+      "id": "400",
+      "descripcion": "LA VIRGINIA"
+    },
+    {
+      "id": "440",
+      "descripcion": "MARSELLA"
+    },
+    {
+      "id": "456",
+      "descripcion": "MISTRATO"
+    },
+    {
+      "id": "572",
+      "descripcion": "PUEBLO RICO"
+    },
+    {
+      "id": "594",
+      "descripcion": "QUINCHIA"
+    },
+    {
+      "id": "682",
+      "descripcion": "SANTA ROSA DE CABAL"
+    },
+    {
+      "id": "687",
+      "descripcion": "SANTUARIO"
+    }
+  ],
+  "68": [
+    {
+      "id": "1",
+      "descripcion": "BUCARAMANGA"
+    },
+    {
+      "id": "13",
+      "descripcion": "AGUADA"
+    },
+    {
+      "id": "20",
+      "descripcion": "ALBANIA"
+    },
+    {
+      "id": "51",
+      "descripcion": "ARATOCA"
+    },
+    {
+      "id": "77",
+      "descripcion": "BARBOSA"
+    },
+    {
+      "id": "79",
+      "descripcion": "BARICHARA"
+    },
+    {
+      "id": "81",
+      "descripcion": "BARRANCABERMEJA"
+    },
+    {
+      "id": "92",
+      "descripcion": "BETULIA"
+    },
+    {
+      "id": "101",
+      "descripcion": "BOLIVAR"
+    },
+    {
+      "id": "121",
+      "descripcion": "CABRERA"
+    },
+    {
+      "id": "132",
+      "descripcion": "CALIFORNIA"
+    },
+    {
+      "id": "147",
+      "descripcion": "CAPITANEJO"
+    },
+    {
+      "id": "152",
+      "descripcion": "CARCASI"
+    },
+    {
+      "id": "160",
+      "descripcion": "CEPITA"
+    },
+    {
+      "id": "162",
+      "descripcion": "CERRITO"
+    },
+    {
+      "id": "167",
+      "descripcion": "CHARALA"
+    },
+    {
+      "id": "169",
+      "descripcion": "CHARTA"
+    },
+    {
+      "id": "176",
+      "descripcion": "CHIMA"
+    },
+    {
+      "id": "179",
+      "descripcion": "CHIPATA"
+    },
+    {
+      "id": "190",
+      "descripcion": "CIMITARRA"
+    },
+    {
+      "id": "207",
+      "descripcion": "CONCEPCION"
+    },
+    {
+      "id": "209",
+      "descripcion": "CONFINES"
+    },
+    {
+      "id": "211",
+      "descripcion": "CONTRATACION"
+    },
+    {
+      "id": "217",
+      "descripcion": "COROMORO"
+    },
+    {
+      "id": "229",
+      "descripcion": "CURITI"
+    },
+    {
+      "id": "235",
+      "descripcion": "EL CARMEN"
+    },
+    {
+      "id": "245",
+      "descripcion": "EL GUACAMAYO"
+    },
+    {
+      "id": "250",
+      "descripcion": "EL PE#ON"
+    },
+    {
+      "id": "255",
+      "descripcion": "EL PLAYON"
+    },
+    {
+      "id": "264",
+      "descripcion": "ENCINO"
+    },
+    {
+      "id": "266",
+      "descripcion": "ENCISO"
+    },
+    {
+      "id": "271",
+      "descripcion": "FLORIAN"
+    },
+    {
+      "id": "276",
+      "descripcion": "FLORIDABLANCA"
+    },
+    {
+      "id": "296",
+      "descripcion": "GALAN"
+    },
+    {
+      "id": "298",
+      "descripcion": "GAMBITA"
+    },
+    {
+      "id": "307",
+      "descripcion": "GIRON"
+    },
+    {
+      "id": "318",
+      "descripcion": "GUACA"
+    },
+    {
+      "id": "320",
+      "descripcion": "GUADALUPE"
+    },
+    {
+      "id": "322",
+      "descripcion": "GUAPOTA"
+    },
+    {
+      "id": "324",
+      "descripcion": "GUAVATA"
+    },
+    {
+      "id": "327",
+      "descripcion": "GUEPSA"
+    },
+    {
+      "id": "344",
+      "descripcion": "HATO"
+    },
+    {
+      "id": "368",
+      "descripcion": "JESUS MARIA"
+    },
+    {
+      "id": "370",
+      "descripcion": "JORDAN"
+    },
+    {
+      "id": "377",
+      "descripcion": "LA BELLEZA"
+    },
+    {
+      "id": "385",
+      "descripcion": "LANDAZURI"
+    },
+    {
+      "id": "397",
+      "descripcion": "LA PAZ"
+    },
+    {
+      "id": "406",
+      "descripcion": "LEBRIJA"
+    },
+    {
+      "id": "418",
+      "descripcion": "LOS SANTOS"
+    },
+    {
+      "id": "425",
+      "descripcion": "MACARAVITA"
+    },
+    {
+      "id": "432",
+      "descripcion": "MALAGA"
+    },
+    {
+      "id": "444",
+      "descripcion": "MATANZA"
+    },
+    {
+      "id": "464",
+      "descripcion": "MOGOTES"
+    },
+    {
+      "id": "468",
+      "descripcion": "MOLAGAVITA"
+    },
+    {
+      "id": "498",
+      "descripcion": "OCAMONTE"
+    },
+    {
+      "id": "500",
+      "descripcion": "OIBA"
+    },
+    {
+      "id": "502",
+      "descripcion": "ONZAGA"
+    },
+    {
+      "id": "522",
+      "descripcion": "PALMAR"
+    },
+    {
+      "id": "524",
+      "descripcion": "PALMAS SOCORRO"
+    },
+    {
+      "id": "533",
+      "descripcion": "PARAMO"
+    },
+    {
+      "id": "547",
+      "descripcion": "PIEDECUESTA"
+    },
+    {
+      "id": "549",
+      "descripcion": "PINCHOTE"
+    },
+    {
+      "id": "572",
+      "descripcion": "PUENTE NACIONAL"
+    },
+    {
+      "id": "573",
+      "descripcion": "PUERTO PARRA"
+    },
+    {
+      "id": "575",
+      "descripcion": "PUERTO WILCHES"
+    },
+    {
+      "id": "615",
+      "descripcion": "RIONEGRO"
+    },
+    {
+      "id": "655",
+      "descripcion": "SABANA DE TORRES"
+    },
+    {
+      "id": "669",
+      "descripcion": "SAN ANDRES"
+    },
+    {
+      "id": "673",
+      "descripcion": "SAN BENITO"
+    },
+    {
+      "id": "679",
+      "descripcion": "SAN GIL"
+    },
+    {
+      "id": "682",
+      "descripcion": "SAN JOAQUIN"
+    },
+    {
+      "id": "684",
+      "descripcion": "SAN JOSE DE MIRANDA"
+    },
+    {
+      "id": "686",
+      "descripcion": "SAN MIGUEL"
+    },
+    {
+      "id": "689",
+      "descripcion": "SAN VICENTE DE CHUCURI"
+    },
+    {
+      "id": "705",
+      "descripcion": "SANTA BARBARA"
+    },
+    {
+      "id": "720",
+      "descripcion": "SANTA HELENA DEL OPON"
+    },
+    {
+      "id": "745",
+      "descripcion": "SIMACOTA"
+    },
+    {
+      "id": "755",
+      "descripcion": "SOCORRO"
+    },
+    {
+      "id": "770",
+      "descripcion": "SUAITA"
+    },
+    {
+      "id": "773",
+      "descripcion": "SUCRE"
+    },
+    {
+      "id": "780",
+      "descripcion": "SURATA"
+    },
+    {
+      "id": "820",
+      "descripcion": "TONA"
+    },
+    {
+      "id": "855",
+      "descripcion": "VALLE DE SAN JOSE"
+    },
+    {
+      "id": "861",
+      "descripcion": "VELEZ"
+    },
+    {
+      "id": "867",
+      "descripcion": "VETAS"
+    },
+    {
+      "id": "872",
+      "descripcion": "VILLANUEVA"
+    },
+    {
+      "id": "895",
+      "descripcion": "ZAPATOCA"
+    }
+  ],
+  "70": [
+    {
+      "id": "1",
+      "descripcion": "SINCELEJO"
+    },
+    {
+      "id": "110",
+      "descripcion": "BUENAVISTA"
+    },
+    {
+      "id": "124",
+      "descripcion": "CAIMITO"
+    },
+    {
+      "id": "204",
+      "descripcion": "COLOSO"
+    },
+    {
+      "id": "215",
+      "descripcion": "COROZAL"
+    },
+    {
+      "id": "230",
+      "descripcion": "CHALAN"
+    },
+    {
+      "id": "235",
+      "descripcion": "GALERAS"
+    },
+    {
+      "id": "265",
+      "descripcion": "GUARANDA"
+    },
+    {
+      "id": "400",
+      "descripcion": "LA UNION"
+    },
+    {
+      "id": "418",
+      "descripcion": "LOS PALMITOS"
+    },
+    {
+      "id": "429",
+      "descripcion": "MAJAGUAL"
+    },
+    {
+      "id": "473",
+      "descripcion": "MORROA"
+    },
+    {
+      "id": "508",
+      "descripcion": "OVEJAS"
+    },
+    {
+      "id": "523",
+      "descripcion": "PALMITO"
+    },
+    {
+      "id": "670",
+      "descripcion": "SAMPUES"
+    },
+    {
+      "id": "678",
+      "descripcion": "SAN BENITO ABAD"
+    },
+    {
+      "id": "702",
+      "descripcion": "SAN JUAN DE BETULIA"
+    },
+    {
+      "id": "708",
+      "descripcion": "SAN MARCOS"
+    },
+    {
+      "id": "713",
+      "descripcion": "SAN ONOFRE"
+    },
+    {
+      "id": "717",
+      "descripcion": "SAN PEDRO"
+    },
+    {
+      "id": "742",
+      "descripcion": "SINCE"
+    },
+    {
+      "id": "771",
+      "descripcion": "SUCRE"
+    },
+    {
+      "id": "820",
+      "descripcion": "TOLU"
+    },
+    {
+      "id": "823",
+      "descripcion": "TOLUVIEJO"
+    }
+  ],
+  "73": [
+    {
+      "id": "1",
+      "descripcion": "IBAGUE"
+    },
+    {
+      "id": "24",
+      "descripcion": "ALPUJARRA"
+    },
+    {
+      "id": "26",
+      "descripcion": "ALVARADO"
+    },
+    {
+      "id": "30",
+      "descripcion": "AMBALEMA"
+    },
+    {
+      "id": "43",
+      "descripcion": "ANZOATEGUI"
+    },
+    {
+      "id": "55",
+      "descripcion": "ARMERO"
+    },
+    {
+      "id": "67",
+      "descripcion": "ATACO"
+    },
+    {
+      "id": "124",
+      "descripcion": "CAJAMARCA"
+    },
+    {
+      "id": "148",
+      "descripcion": "CARMEN DE APICALA"
+    },
+    {
+      "id": "152",
+      "descripcion": "CASABIANCA"
+    },
+    {
+      "id": "168",
+      "descripcion": "CHAPARRAL"
+    },
+    {
+      "id": "200",
+      "descripcion": "COELLO"
+    },
+    {
+      "id": "217",
+      "descripcion": "COYAIMA"
+    },
+    {
+      "id": "226",
+      "descripcion": "CUNDAY"
+    },
+    {
+      "id": "236",
+      "descripcion": "DOLORES"
+    },
+    {
+      "id": "268",
+      "descripcion": "ESPINAL"
+    },
+    {
+      "id": "270",
+      "descripcion": "FALAN"
+    },
+    {
+      "id": "275",
+      "descripcion": "FLANDES"
+    },
+    {
+      "id": "283",
+      "descripcion": "FRESNO"
+    },
+    {
+      "id": "319",
+      "descripcion": "GUAMO"
+    },
+    {
+      "id": "347",
+      "descripcion": "HERVEO"
+    },
+    {
+      "id": "349",
+      "descripcion": "HONDA"
+    },
+    {
+      "id": "352",
+      "descripcion": "ICONONZO"
+    },
+    {
+      "id": "408",
+      "descripcion": "LERIDA"
+    },
+    {
+      "id": "411",
+      "descripcion": "LIBANO"
+    },
+    {
+      "id": "443",
+      "descripcion": "MARIQUITA"
+    },
+    {
+      "id": "449",
+      "descripcion": "MELGAR"
+    },
+    {
+      "id": "461",
+      "descripcion": "MURILLO"
+    },
+    {
+      "id": "483",
+      "descripcion": "NATAGAIMA"
+    },
+    {
+      "id": "504",
+      "descripcion": "ORTEGA"
+    },
+    {
+      "id": "547",
+      "descripcion": "PIEDRAS"
+    },
+    {
+      "id": "555",
+      "descripcion": "PLANADAS"
+    },
+    {
+      "id": "563",
+      "descripcion": "PRADO"
+    },
+    {
+      "id": "585",
+      "descripcion": "PURIFICACION"
+    },
+    {
+      "id": "616",
+      "descripcion": "RIOBLANCO"
+    },
+    {
+      "id": "622",
+      "descripcion": "RONCESVALLES"
+    },
+    {
+      "id": "624",
+      "descripcion": "ROVIRA"
+    },
+    {
+      "id": "671",
+      "descripcion": "SALDA#A"
+    },
+    {
+      "id": "675",
+      "descripcion": "SAN ANTONIO"
+    },
+    {
+      "id": "678",
+      "descripcion": "SAN LUIS"
+    },
+    {
+      "id": "686",
+      "descripcion": "SANTA ISABEL"
+    },
+    {
+      "id": "770",
+      "descripcion": "SUAREZ"
+    },
+    {
+      "id": "854",
+      "descripcion": "VALLE DE SAN JUAN"
+    },
+    {
+      "id": "861",
+      "descripcion": "VENADILLO"
+    },
+    {
+      "id": "870",
+      "descripcion": "VILLAHERMOSA"
+    },
+    {
+      "id": "554",
+      "descripcion": "PALOCABILDO"
+    },
+    {
+      "id": "873",
+      "descripcion": "VILLARRICA"
+    }
+  ],
+  "76": [
+    {
+      "id": "1",
+      "descripcion": "CALI"
+    },
+    {
+      "id": "20",
+      "descripcion": "ALCALA"
+    },
+    {
+      "id": "36",
+      "descripcion": "ANDALUCIA"
+    },
+    {
+      "id": "41",
+      "descripcion": "ANSERMANUEVO"
+    },
+    {
+      "id": "54",
+      "descripcion": "ARGELIA"
+    },
+    {
+      "id": "100",
+      "descripcion": "BOLIVAR"
+    },
+    {
+      "id": "109",
+      "descripcion": "BUENAVENTURA"
+    },
+    {
+      "id": "111",
+      "descripcion": "BUGA"
+    },
+    {
+      "id": "113",
+      "descripcion": "BUGALAGRANDE"
+    },
+    {
+      "id": "122",
+      "descripcion": "CAICEDONIA"
+    },
+    {
+      "id": "126",
+      "descripcion": "CALIMA"
+    },
+    {
+      "id": "130",
+      "descripcion": "CANDELARIA"
+    },
+    {
+      "id": "147",
+      "descripcion": "CARTAGO"
+    },
+    {
+      "id": "233",
+      "descripcion": "DAGUA"
+    },
+    {
+      "id": "243",
+      "descripcion": "EL AGUILA"
+    },
+    {
+      "id": "246",
+      "descripcion": "EL CAIRO"
+    },
+    {
+      "id": "248",
+      "descripcion": "EL CERRITO"
+    },
+    {
+      "id": "250",
+      "descripcion": "EL DOVIO"
+    },
+    {
+      "id": "275",
+      "descripcion": "FLORIDA"
+    },
+    {
+      "id": "306",
+      "descripcion": "GINEBRA"
+    },
+    {
+      "id": "318",
+      "descripcion": "GUACARI"
+    },
+    {
+      "id": "364",
+      "descripcion": "JAMUNDI"
+    },
+    {
+      "id": "377",
+      "descripcion": "LA CUMBRE"
+    },
+    {
+      "id": "400",
+      "descripcion": "LA UNION"
+    },
+    {
+      "id": "403",
+      "descripcion": "LA VICTORIA"
+    },
+    {
+      "id": "497",
+      "descripcion": "OBANDO"
+    },
+    {
+      "id": "520",
+      "descripcion": "PALMIRA"
+    },
+    {
+      "id": "563",
+      "descripcion": "PRADERA"
+    },
+    {
+      "id": "606",
+      "descripcion": "RESTREPO"
+    },
+    {
+      "id": "616",
+      "descripcion": "RIOFRIO"
+    },
+    {
+      "id": "622",
+      "descripcion": "ROLDANILLO"
+    },
+    {
+      "id": "670",
+      "descripcion": "SAN PEDRO"
+    },
+    {
+      "id": "736",
+      "descripcion": "SEVILLA"
+    },
+    {
+      "id": "823",
+      "descripcion": "TORO"
+    },
+    {
+      "id": "828",
+      "descripcion": "TRUJILLO"
+    },
+    {
+      "id": "834",
+      "descripcion": "TULUA"
+    },
+    {
+      "id": "845",
+      "descripcion": "ULLOA"
+    },
+    {
+      "id": "863",
+      "descripcion": "VERSALLES"
+    },
+    {
+      "id": "869",
+      "descripcion": "VIJES"
+    },
+    {
+      "id": "890",
+      "descripcion": "YOTOCO"
+    },
+    {
+      "id": "892",
+      "descripcion": "YUMBO"
+    },
+    {
+      "id": "895",
+      "descripcion": "ZARZAL"
+    }
+  ],
+  "81": [
+    {
+      "id": "1",
+      "descripcion": "ARAUCA"
+    },
+    {
+      "id": "65",
+      "descripcion": "ARAUQUITA"
+    },
+    {
+      "id": "220",
+      "descripcion": "CRAVO NORTE"
+    },
+    {
+      "id": "300",
+      "descripcion": "FORTUL"
+    },
+    {
+      "id": "591",
+      "descripcion": "PUERTO RONDON"
+    },
+    {
+      "id": "736",
+      "descripcion": "SARAVENA"
+    },
+    {
+      "id": "794",
+      "descripcion": "TAME"
+    }
+  ],
+  "85": [
+    {
+      "id": "1",
+      "descripcion": "YOPAL"
+    },
+    {
+      "id": "10",
+      "descripcion": "AGUAZUL"
+    },
+    {
+      "id": "15",
+      "descripcion": "CHAMEZA"
+    },
+    {
+      "id": "125",
+      "descripcion": "HATO COROZAL"
+    },
+    {
+      "id": "136",
+      "descripcion": "LA SALINA"
+    },
+    {
+      "id": "139",
+      "descripcion": "MANI"
+    },
+    {
+      "id": "162",
+      "descripcion": "MONTERREY"
+    },
+    {
+      "id": "225",
+      "descripcion": "NUNCHIA"
+    },
+    {
+      "id": "230",
+      "descripcion": "OROCUE"
+    },
+    {
+      "id": "250",
+      "descripcion": "PAZ DE ARIPORO"
+    },
+    {
+      "id": "263",
+      "descripcion": "PORE"
+    },
+    {
+      "id": "279",
+      "descripcion": "RECETOR"
+    },
+    {
+      "id": "300",
+      "descripcion": "SABANALARGA"
+    },
+    {
+      "id": "315",
+      "descripcion": "SACAMA"
+    },
+    {
+      "id": "325",
+      "descripcion": "SAN LUIS DE PALENQUE"
+    },
+    {
+      "id": "400",
+      "descripcion": "TAMARA"
+    },
+    {
+      "id": "410",
+      "descripcion": "TAURAMENA"
+    },
+    {
+      "id": "430",
+      "descripcion": "TRINIDAD"
+    },
+    {
+      "id": "440",
+      "descripcion": "VILLANUEVA"
+    }
+  ],
+  "86": [
+    {
+      "id": "1",
+      "descripcion": "MOCOA"
+    },
+    {
+      "id": "219",
+      "descripcion": "COLON"
+    },
+    {
+      "id": "320",
+      "descripcion": "ORITO"
+    },
+    {
+      "id": "568",
+      "descripcion": "PUERTO ASIS"
+    },
+    {
+      "id": "569",
+      "descripcion": "PUERTO CAICEDO"
+    },
+    {
+      "id": "571",
+      "descripcion": "PUERTO GUZMAN"
+    },
+    {
+      "id": "573",
+      "descripcion": "PUERTO  LEGUIZAMO"
+    },
+    {
+      "id": "749",
+      "descripcion": "SIBUNDOY"
+    },
+    {
+      "id": "755",
+      "descripcion": "SAN FRANCISCO"
+    },
+    {
+      "id": "760",
+      "descripcion": "SANTIAGO"
+    },
+    {
+      "id": "865",
+      "descripcion": "VALLE GUAMUEZ"
+    },
+    {
+      "id": "885",
+      "descripcion": "VILLAGARZON"
+    }
+  ],
+  "88": [
+    {
+      "id": "1",
+      "descripcion": "SAN ANDRES"
+    },
+    {
+      "id": "564",
+      "descripcion": "PROVIDENCIA"
+    }
+  ],
+  "91": [
+    {
+      "id": "1",
+      "descripcion": "LETICIA"
+    },
+    {
+      "id": "263",
+      "descripcion": "EL ENCANTO"
+    },
+    {
+      "id": "405",
+      "descripcion": "LA CHORRERA"
+    },
+    {
+      "id": "407",
+      "descripcion": "LA PEDRERA"
+    },
+    {
+      "id": "460",
+      "descripcion": "MIRITI-PARANA"
+    },
+    {
+      "id": "540",
+      "descripcion": "PUERTO NARI#O"
+    },
+    {
+      "id": "669",
+      "descripcion": "PTO SANTANDER"
+    },
+    {
+      "id": "798",
+      "descripcion": "TARAPACA"
+    }
+  ],
+  "94": [
+    {
+      "id": "1",
+      "descripcion": "INIRIDA"
+    },
+    {
+      "id": "343",
+      "descripcion": "BARRANCO MINAS"
+    }
+  ],
+  "95": [
+    {
+      "id": "1",
+      "descripcion": "SAN JOSE DEL GUAVIARE"
+    },
+    {
+      "id": "15",
+      "descripcion": "CALAMAR"
+    },
+    {
+      "id": "25",
+      "descripcion": "EL RETORNO"
+    },
+    {
+      "id": "200",
+      "descripcion": "MIRAFLORES"
+    },
+    {
+      "id": "220",
+      "descripcion": "MORICHAL"
+    }
+  ],
+  "97": [
+    {
+      "id": "1",
+      "descripcion": "MITU"
+    },
+    {
+      "id": "161",
+      "descripcion": "CARURU"
+    },
+    {
+      "id": "511",
+      "descripcion": "PACOA"
+    },
+    {
+      "id": "889",
+      "descripcion": "YAVARATE"
+    }
+  ],
+  "99": [
+    {
+      "id": "1",
+      "descripcion": "PUERTO CARREÑO"
+    },
+    {
+      "id": "524",
+      "descripcion": "LA PRIMAVERA"
+    },
+    {
+      "id": "572",
+      "descripcion": "SANTA RITA"
+    },
+    {
+      "id": "760",
+      "descripcion": "SAN JOSE DE OCUNE"
+    },
+    {
+      "id": "765",
+      "descripcion": "SANTA ROSALIA"
+    }
+  ],
+  "05": [
+    {
+      "id": "1",
+      "descripcion": "MEDELLIN"
+    },
+    {
+      "id": "2",
+      "descripcion": "ABEJORRAL"
+    },
+    {
+      "id": "4",
+      "descripcion": "ABRIAQUI"
+    },
+    {
+      "id": "21",
+      "descripcion": "ALEJANDRIA"
+    },
+    {
+      "id": "30",
+      "descripcion": "AMAGA"
+    },
+    {
+      "id": "31",
+      "descripcion": "AMALFI"
+    },
+    {
+      "id": "34",
+      "descripcion": "ANDES"
+    },
+    {
+      "id": "36",
+      "descripcion": "ANGELOPOLIS"
+    },
+    {
+      "id": "38",
+      "descripcion": "ANGOSTURA"
+    },
+    {
+      "id": "40",
+      "descripcion": "ANORI"
+    },
+    {
+      "id": "42",
+      "descripcion": "ANTIOQUIA"
+    },
+    {
+      "id": "44",
+      "descripcion": "ANZA"
+    },
+    {
+      "id": "45",
+      "descripcion": "APARTADO"
+    },
+    {
+      "id": "51",
+      "descripcion": "ARBOLETES"
+    },
+    {
+      "id": "55",
+      "descripcion": "ARGELIA"
+    },
+    {
+      "id": "59",
+      "descripcion": "ARMENIA"
+    },
+    {
+      "id": "79",
+      "descripcion": "BARBOSA"
+    },
+    {
+      "id": "86",
+      "descripcion": "BELMIRA"
+    },
+    {
+      "id": "88",
+      "descripcion": "BELLO"
+    },
+    {
+      "id": "91",
+      "descripcion": "BETANIA"
+    },
+    {
+      "id": "93",
+      "descripcion": "BETULIA"
+    },
+    {
+      "id": "101",
+      "descripcion": "BOLIVAR"
+    },
+    {
+      "id": "107",
+      "descripcion": "BRICE#O"
+    },
+    {
+      "id": "113",
+      "descripcion": "BURITICA"
+    },
+    {
+      "id": "120",
+      "descripcion": "CACERES"
+    },
+    {
+      "id": "125",
+      "descripcion": "CAICEDO"
+    },
+    {
+      "id": "129",
+      "descripcion": "CALDAS"
+    },
+    {
+      "id": "134",
+      "descripcion": "CAMPAMENTO"
+    },
+    {
+      "id": "138",
+      "descripcion": "CAÑASGORDAS"
+    },
+    {
+      "id": "142",
+      "descripcion": "CARACOLI"
+    },
+    {
+      "id": "145",
+      "descripcion": "CARAMANTA"
+    },
+    {
+      "id": "147",
+      "descripcion": "CAREPA"
+    },
+    {
+      "id": "148",
+      "descripcion": "CARMEN DE VIBORAL"
+    },
+    {
+      "id": "150",
+      "descripcion": "CAROLINA"
+    },
+    {
+      "id": "154",
+      "descripcion": "CAUCASIA"
+    },
+    {
+      "id": "172",
+      "descripcion": "CHIGORODO"
+    },
+    {
+      "id": "190",
+      "descripcion": "CISNEROS"
+    },
+    {
+      "id": "197",
+      "descripcion": "COCORNA"
+    },
+    {
+      "id": "206",
+      "descripcion": "CONCEPCION"
+    },
+    {
+      "id": "209",
+      "descripcion": "CONCORDIA"
+    },
+    {
+      "id": "212",
+      "descripcion": "COPACABANA"
+    },
+    {
+      "id": "234",
+      "descripcion": "DABEIBA"
+    },
+    {
+      "id": "237",
+      "descripcion": "DON MATIAS"
+    },
+    {
+      "id": "240",
+      "descripcion": "EBEJICO"
+    },
+    {
+      "id": "250",
+      "descripcion": "EL BAGRE"
+    },
+    {
+      "id": "264",
+      "descripcion": "ENTRERRIOS"
+    },
+    {
+      "id": "266",
+      "descripcion": "ENVIGADO"
+    },
+    {
+      "id": "282",
+      "descripcion": "FREDONIA"
+    },
+    {
+      "id": "284",
+      "descripcion": "FRONTINO"
+    },
+    {
+      "id": "306",
+      "descripcion": "GIRALDO"
+    },
+    {
+      "id": "308",
+      "descripcion": "GIRARDOTA"
+    },
+    {
+      "id": "310",
+      "descripcion": "GOMEZ PLATA"
+    },
+    {
+      "id": "313",
+      "descripcion": "GRANADA"
+    },
+    {
+      "id": "315",
+      "descripcion": "GUADALUPE"
+    },
+    {
+      "id": "318",
+      "descripcion": "GUARNE"
+    },
+    {
+      "id": "321",
+      "descripcion": "GUATAPE"
+    },
+    {
+      "id": "347",
+      "descripcion": "HELICONIA"
+    },
+    {
+      "id": "353",
+      "descripcion": "HISPANIA"
+    },
+    {
+      "id": "360",
+      "descripcion": "ITAGUI"
+    },
+    {
+      "id": "361",
+      "descripcion": "ITUANGO"
+    },
+    {
+      "id": "364",
+      "descripcion": "JARDIN"
+    },
+    {
+      "id": "368",
+      "descripcion": "JERICO"
+    },
+    {
+      "id": "376",
+      "descripcion": "LA CEJA"
+    },
+    {
+      "id": "380",
+      "descripcion": "LA ESTRELLA"
+    },
+    {
+      "id": "400",
+      "descripcion": "LA UNION"
+    },
+    {
+      "id": "411",
+      "descripcion": "LIBORINA"
+    },
+    {
+      "id": "425",
+      "descripcion": "MACEO"
+    },
+    {
+      "id": "440",
+      "descripcion": "MARINILLA"
+    },
+    {
+      "id": "467",
+      "descripcion": "MONTEBELLO"
+    },
+    {
+      "id": "475",
+      "descripcion": "MURINDO"
+    },
+    {
+      "id": "480",
+      "descripcion": "MUTATA"
+    },
+    {
+      "id": "483",
+      "descripcion": "NARI#O"
+    },
+    {
+      "id": "490",
+      "descripcion": "NECOCLI"
+    },
+    {
+      "id": "495",
+      "descripcion": "NECHI"
+    },
+    {
+      "id": "501",
+      "descripcion": "OLAYA"
+    },
+    {
+      "id": "541",
+      "descripcion": "PEÑOL"
+    },
+    {
+      "id": "543",
+      "descripcion": "PEQUE"
+    },
+    {
+      "id": "576",
+      "descripcion": "PUEBLORRICO"
+    },
+    {
+      "id": "579",
+      "descripcion": "PUERTO BERRIO"
+    },
+    {
+      "id": "585",
+      "descripcion": "PTO NARE(LAMAGDALENA)"
+    },
+    {
+      "id": "591",
+      "descripcion": "PUERTO TRIUNFO"
+    },
+    {
+      "id": "604",
+      "descripcion": "REMEDIOS"
+    },
+    {
+      "id": "607",
+      "descripcion": "RETIRO"
+    },
+    {
+      "id": "615",
+      "descripcion": "RIONEGRO"
+    },
+    {
+      "id": "628",
+      "descripcion": "SABANALARGA"
+    },
+    {
+      "id": "631",
+      "descripcion": "SABANETA"
+    },
+    {
+      "id": "642",
+      "descripcion": "SALGAR"
+    },
+    {
+      "id": "647",
+      "descripcion": "SAN ANDRES"
+    },
+    {
+      "id": "649",
+      "descripcion": "SAN CARLOS"
+    },
+    {
+      "id": "652",
+      "descripcion": "SAN FRANCISCO"
+    },
+    {
+      "id": "656",
+      "descripcion": "SAN JERONIMO"
+    },
+    {
+      "id": "658",
+      "descripcion": "SAN JOSE DE LA MONTA#A"
+    },
+    {
+      "id": "659",
+      "descripcion": "SAN JUAN DE URABA"
+    },
+    {
+      "id": "660",
+      "descripcion": "SAN LUIS"
+    },
+    {
+      "id": "664",
+      "descripcion": "SAN PEDRO"
+    },
+    {
+      "id": "665",
+      "descripcion": "SAN PEDRO DE URABA"
+    },
+    {
+      "id": "667",
+      "descripcion": "SAN RAFAEL"
+    },
+    {
+      "id": "670",
+      "descripcion": "SAN ROQUE"
+    },
+    {
+      "id": "674",
+      "descripcion": "SAN VICENTE"
+    },
+    {
+      "id": "679",
+      "descripcion": "SANTA BARBARA"
+    },
+    {
+      "id": "686",
+      "descripcion": "SANTA ROSA DE OSOS"
+    },
+    {
+      "id": "690",
+      "descripcion": "SANTO DOMINGO"
+    },
+    {
+      "id": "697",
+      "descripcion": "SANTUARIO"
+    },
+    {
+      "id": "736",
+      "descripcion": "SEGOVIA"
+    },
+    {
+      "id": "756",
+      "descripcion": "SONSON"
+    },
+    {
+      "id": "761",
+      "descripcion": "SOPETRAN"
+    },
+    {
+      "id": "789",
+      "descripcion": "TAMESIS"
+    },
+    {
+      "id": "790",
+      "descripcion": "TARAZA"
+    },
+    {
+      "id": "792",
+      "descripcion": "TARSO"
+    },
+    {
+      "id": "809",
+      "descripcion": "TITIRIBI"
+    },
+    {
+      "id": "819",
+      "descripcion": "TOLEDO"
+    },
+    {
+      "id": "837",
+      "descripcion": "TURBO"
+    },
+    {
+      "id": "842",
+      "descripcion": "URAMITA"
+    },
+    {
+      "id": "847",
+      "descripcion": "URRAO"
+    },
+    {
+      "id": "854",
+      "descripcion": "VALDIVIA"
+    },
+    {
+      "id": "856",
+      "descripcion": "VALPARAISO"
+    },
+    {
+      "id": "858",
+      "descripcion": "VEGACHI"
+    },
+    {
+      "id": "861",
+      "descripcion": "VENECIA"
+    },
+    {
+      "id": "873",
+      "descripcion": "VIGIA DEL FUERTE"
+    },
+    {
+      "id": "885",
+      "descripcion": "YALI"
+    },
+    {
+      "id": "887",
+      "descripcion": "YARUMAL"
+    },
+    {
+      "id": "890",
+      "descripcion": "YOLOMBO"
+    },
+    {
+      "id": "893",
+      "descripcion": "YONDO"
+    },
+    {
+      "id": "895",
+      "descripcion": "ZARAGOZA"
+    }
+  ],
+  "08": [
+    {
+      "id": "1",
+      "descripcion": "BARRANQUILLA"
+    },
+    {
+      "id": "78",
+      "descripcion": "BARANOA"
+    },
+    {
+      "id": "137",
+      "descripcion": "CAMPO D LA CRUZ"
+    },
+    {
+      "id": "141",
+      "descripcion": "CANDELARIA"
+    },
+    {
+      "id": "296",
+      "descripcion": "GALAPA"
+    },
+    {
+      "id": "372",
+      "descripcion": "JUAN DE ACOSTA"
+    },
+    {
+      "id": "421",
+      "descripcion": "LURUACO"
+    },
+    {
+      "id": "433",
+      "descripcion": "MALAMBO"
+    },
+    {
+      "id": "436",
+      "descripcion": "MANATI"
+    },
+    {
+      "id": "520",
+      "descripcion": "PALMAR DE VARELA"
+    },
+    {
+      "id": "549",
+      "descripcion": "PIOJO"
+    },
+    {
+      "id": "558",
+      "descripcion": "POLONUEVO"
+    },
+    {
+      "id": "560",
+      "descripcion": "PONEDERA"
+    },
+    {
+      "id": "573",
+      "descripcion": "PUERTO COLOMBIA"
+    },
+    {
+      "id": "606",
+      "descripcion": "REPELON"
+    },
+    {
+      "id": "634",
+      "descripcion": "SABANAGRANDE"
+    },
+    {
+      "id": "638",
+      "descripcion": "SABANALARGA"
+    },
+    {
+      "id": "675",
+      "descripcion": "SANTA LUCIA"
+    },
+    {
+      "id": "685",
+      "descripcion": "SANTO TOMAS"
+    },
+    {
+      "id": "758",
+      "descripcion": "SOLEDAD"
+    },
+    {
+      "id": "770",
+      "descripcion": "SUAN"
+    },
+    {
+      "id": "832",
+      "descripcion": "TUBARA"
+    },
+    {
+      "id": "849",
+      "descripcion": "USIACURI"
+    }
+  ],
+  "11": [
+    {
+      "id": "1",
+      "descripcion": "SANTAFE DE BOGOTA D.C."
+    }
+  ],
+  "13": [
+    {
+      "id": "1",
+      "descripcion": "CARTAGENA"
+    },
+    {
+      "id": "6",
+      "descripcion": "ACHI"
+    },
+    {
+      "id": "52",
+      "descripcion": "ARJONA"
+    },
+    {
+      "id": "74",
+      "descripcion": "BARRANCO DE LOBA"
+    },
+    {
+      "id": "140",
+      "descripcion": "CALAMAR"
+    },
+    {
+      "id": "212",
+      "descripcion": "CORDOBA"
+    },
+    {
+      "id": "244",
+      "descripcion": "EL CARMEN DE BOLIVAR"
+    },
+    {
+      "id": "248",
+      "descripcion": "EL GUAMO"
+    },
+    {
+      "id": "430",
+      "descripcion": "MAGANGUE"
+    },
+    {
+      "id": "433",
+      "descripcion": "MAHATES"
+    },
+    {
+      "id": "440",
+      "descripcion": "MARGARITA"
+    },
+    {
+      "id": "442",
+      "descripcion": "MARIA LA BAJA"
+    },
+    {
+      "id": "468",
+      "descripcion": "MOMPOS"
+    },
+    {
+      "id": "473",
+      "descripcion": "MORALES"
+    },
+    {
+      "id": "549",
+      "descripcion": "PINILLOS"
+    },
+    {
+      "id": "600",
+      "descripcion": "RIO VIEJO"
+    },
+    {
+      "id": "647",
+      "descripcion": "SAN ESTANISLAO"
+    },
+    {
+      "id": "650",
+      "descripcion": "SAN FERNANDO"
+    },
+    {
+      "id": "654",
+      "descripcion": "SAN JACINTO"
+    },
+    {
+      "id": "657",
+      "descripcion": "SAN JUAN NEPOMUCENO"
+    },
+    {
+      "id": "667",
+      "descripcion": "SAN MARTIN DE LOBA"
+    },
+    {
+      "id": "670",
+      "descripcion": "SAN PABLO"
+    },
+    {
+      "id": "673",
+      "descripcion": "SANTA CATALINA"
+    },
+    {
+      "id": "683",
+      "descripcion": "SANTA ROSA"
+    },
+    {
+      "id": "688",
+      "descripcion": "SANTA ROSA DEL SUR"
+    },
+    {
+      "id": "744",
+      "descripcion": "SIMITI"
+    },
+    {
+      "id": "760",
+      "descripcion": "SOPLAVIENTO"
+    },
+    {
+      "id": "780",
+      "descripcion": "TALAIGUA NUEVO"
+    },
+    {
+      "id": "836",
+      "descripcion": "TURBACO"
+    },
+    {
+      "id": "838",
+      "descripcion": "TURBANA"
+    },
+    {
+      "id": "873",
+      "descripcion": "VILLANUEVA"
+    },
+    {
+      "id": "894",
+      "descripcion": "ZAMBRANO"
+    }
+  ],
+  "151": [
+    {
+      "id": "1",
+      "descripcion": "TUNJA"
+    },
+    {
+      "id": "22",
+      "descripcion": "ALMEIDA"
+    },
+    {
+      "id": "47",
+      "descripcion": "AQUITANIA"
+    },
+    {
+      "id": "51",
+      "descripcion": "ARCABUCO"
+    },
+    {
+      "id": "87",
+      "descripcion": "BELEN"
+    },
+    {
+      "id": "90",
+      "descripcion": "BERBEO"
+    },
+    {
+      "id": "92",
+      "descripcion": "BETEITIVA"
+    },
+    {
+      "id": "97",
+      "descripcion": "BOAVITA"
+    },
+    {
+      "id": "104",
+      "descripcion": "BOYACA"
+    },
+    {
+      "id": "106",
+      "descripcion": "BRICENO"
+    },
+    {
+      "id": "109",
+      "descripcion": "BUENAVISTA"
+    },
+    {
+      "id": "114",
+      "descripcion": "BUSBANZA"
+    },
+    {
+      "id": "131",
+      "descripcion": "CALDAS"
+    },
+    {
+      "id": "135",
+      "descripcion": "CAMPOHERMOSO"
+    },
+    {
+      "id": "162",
+      "descripcion": "CERINZA"
+    },
+    {
+      "id": "172",
+      "descripcion": "CHINAVITA"
+    },
+    {
+      "id": "176",
+      "descripcion": "CHIQUINQUIRA"
+    },
+    {
+      "id": "180",
+      "descripcion": "CHISCAS"
+    },
+    {
+      "id": "183",
+      "descripcion": "CHITA"
+    },
+    {
+      "id": "185",
+      "descripcion": "CHITARAQUE"
+    },
+    {
+      "id": "187",
+      "descripcion": "CHIVATA"
+    },
+    {
+      "id": "189",
+      "descripcion": "CIENEGA"
+    },
+    {
+      "id": "204",
+      "descripcion": "COMBITA"
+    },
+    {
+      "id": "212",
+      "descripcion": "COPER"
+    },
+    {
+      "id": "215",
+      "descripcion": "CORRALES"
+    },
+    {
+      "id": "218",
+      "descripcion": "COVARACHIA"
+    },
+    {
+      "id": "223",
+      "descripcion": "CUBARA"
+    },
+    {
+      "id": "224",
+      "descripcion": "CUCAITA"
+    },
+    {
+      "id": "226",
+      "descripcion": "CUITIVA"
+    },
+    {
+      "id": "232",
+      "descripcion": "CHIQUIZA"
+    },
+    {
+      "id": "236",
+      "descripcion": "CHIVOR"
+    },
+    {
+      "id": "238",
+      "descripcion": "DUITAMA"
+    },
+    {
+      "id": "244",
+      "descripcion": "EL COCUY"
+    },
+    {
+      "id": "248",
+      "descripcion": "EL ESPINO"
+    },
+    {
+      "id": "272",
+      "descripcion": "FIRAVITOBA"
+    },
+    {
+      "id": "276",
+      "descripcion": "FLORESTA"
+    },
+    {
+      "id": "293",
+      "descripcion": "GACHANTIVA"
+    },
+    {
+      "id": "296",
+      "descripcion": "GAMEZA"
+    },
+    {
+      "id": "299",
+      "descripcion": "GARAGOA"
+    },
+    {
+      "id": "317",
+      "descripcion": "GUACAMAYAS"
+    },
+    {
+      "id": "322",
+      "descripcion": "GUATEQUE"
+    },
+    {
+      "id": "325",
+      "descripcion": "GUAYATA"
+    },
+    {
+      "id": "332",
+      "descripcion": "GUICAN"
+    },
+    {
+      "id": "362",
+      "descripcion": "IZA"
+    },
+    {
+      "id": "367",
+      "descripcion": "JENESANO"
+    },
+    {
+      "id": "368",
+      "descripcion": "JERICO"
+    },
+    {
+      "id": "377",
+      "descripcion": "LABRANZAGRANDE"
+    },
+    {
+      "id": "380",
+      "descripcion": "LA CAPILLA"
+    },
+    {
+      "id": "401",
+      "descripcion": "LA VICTORIA"
+    },
+    {
+      "id": "403",
+      "descripcion": "LA UVITA"
+    },
+    {
+      "id": "407",
+      "descripcion": "VILLA DE LEYVA"
+    },
+    {
+      "id": "425",
+      "descripcion": "MACANAL"
+    },
+    {
+      "id": "442",
+      "descripcion": "MARIPI"
+    },
+    {
+      "id": "455",
+      "descripcion": "MIRAFLORES"
+    },
+    {
+      "id": "464",
+      "descripcion": "MONGUA"
+    },
+    {
+      "id": "466",
+      "descripcion": "MONGUI"
+    },
+    {
+      "id": "469",
+      "descripcion": "MONIQUIRA"
+    },
+    {
+      "id": "476",
+      "descripcion": "MOTAVITA"
+    },
+    {
+      "id": "480",
+      "descripcion": "MUZO"
+    },
+    {
+      "id": "491",
+      "descripcion": "NOBSA"
+    },
+    {
+      "id": "494",
+      "descripcion": "NUEVO COLON"
+    },
+    {
+      "id": "500",
+      "descripcion": "OICATA"
+    },
+    {
+      "id": "507",
+      "descripcion": "OTANCHE"
+    },
+    {
+      "id": "511",
+      "descripcion": "PACHAVITA"
+    },
+    {
+      "id": "514",
+      "descripcion": "PAEZ"
+    },
+    {
+      "id": "516",
+      "descripcion": "PAIPA"
+    },
+    {
+      "id": "518",
+      "descripcion": "PAJARITO"
+    },
+    {
+      "id": "522",
+      "descripcion": "PANQUEBA"
+    },
+    {
+      "id": "531",
+      "descripcion": "PAUNA"
+    },
+    {
+      "id": "533",
+      "descripcion": "PAYA"
+    },
+    {
+      "id": "537",
+      "descripcion": "PAZ DE RIO"
+    },
+    {
+      "id": "542",
+      "descripcion": "PESCA"
+    },
+    {
+      "id": "550",
+      "descripcion": "PISVA"
+    },
+    {
+      "id": "572",
+      "descripcion": "PUERTO BOYACA"
+    },
+    {
+      "id": "580",
+      "descripcion": "QUIPAMA"
+    },
+    {
+      "id": "599",
+      "descripcion": "RAMIRIQUI"
+    },
+    {
+      "id": "600",
+      "descripcion": "RAQUIRA"
+    },
+    {
+      "id": "621",
+      "descripcion": "RONDON"
+    },
+    {
+      "id": "632",
+      "descripcion": "SABOYA"
+    },
+    {
+      "id": "638",
+      "descripcion": "SACHICA"
+    },
+    {
+      "id": "646",
+      "descripcion": "SAMACA"
+    },
+    {
+      "id": "660",
+      "descripcion": "SAN EDUARDO"
+    },
+    {
+      "id": "664",
+      "descripcion": "SAN JOSE DE PARE"
+    },
+    {
+      "id": "667",
+      "descripcion": "SAN LUIS DE GACENO"
+    },
+    {
+      "id": "673",
+      "descripcion": "SAN MATEO"
+    },
+    {
+      "id": "676",
+      "descripcion": "SAN MIGUEL DE SEMA"
+    },
+    {
+      "id": "681",
+      "descripcion": "SAN PABLO DE BORBUR"
+    },
+    {
+      "id": "686",
+      "descripcion": "SANTANA"
+    },
+    {
+      "id": "690",
+      "descripcion": "SANTA MARIA"
+    },
+    {
+      "id": "693",
+      "descripcion": "SANTA ROSA DE VITERBO"
+    },
+    {
+      "id": "696",
+      "descripcion": "SANTA SOFIA"
+    },
+    {
+      "id": "720",
+      "descripcion": "SATIVANORTE"
+    },
+    {
+      "id": "723",
+      "descripcion": "SATIVASUR"
+    },
+    {
+      "id": "740",
+      "descripcion": "SIACHOQUE"
+    },
+    {
+      "id": "753",
+      "descripcion": "SOATA"
+    },
+    {
+      "id": "755",
+      "descripcion": "SOCOTA"
+    },
+    {
+      "id": "757",
+      "descripcion": "SOCHA"
+    },
+    {
+      "id": "759",
+      "descripcion": "SOGAMOSO"
+    },
+    {
+      "id": "761",
+      "descripcion": "SOMONDOCO"
+    },
+    {
+      "id": "762",
+      "descripcion": "SORA"
+    },
+    {
+      "id": "763",
+      "descripcion": "SOTAQUIRA"
+    },
+    {
+      "id": "764",
+      "descripcion": "SORACA"
+    }
+  ]
+}

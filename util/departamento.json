@@ -1,0 +1,136 @@
+{
+    "data": [
+        {
+            "id": "05",
+            "descripcion": "ANTIOQUIA"
+        },
+        {
+            "id": "08",
+            "descripcion": "ATLANTICO"
+        },
+        {
+            "id": "11",
+            "descripcion": "BOGOTA"
+        },
+        {
+            "id": "13",
+            "descripcion": "BOLIVAR"
+        },
+        {
+            "id": "15",
+            "descripcion": "BOYACA"
+        },
+        {
+            "id": "17",
+            "descripcion": "CALDAS"
+        },
+        {
+            "id": "18",
+            "descripcion": "CAQUETA"
+        },
+        {
+            "id": "19",
+            "descripcion": "CAUCA"
+        },
+        {
+            "id": "20",
+            "descripcion": "CESAR"
+        },
+        {
+            "id": "23",
+            "descripcion": "CORDOBA"
+        },
+        {
+            "id": "25",
+            "descripcion": "CUNDINAMARCA"
+        },
+        {
+            "id": "27",
+            "descripcion": "CHOCO"
+        },
+        {
+            "id": "41",
+            "descripcion": "HUILA"
+        },
+        {
+            "id": "44",
+            "descripcion": "LA GUAJIRA"
+        },
+        {
+            "id": "47",
+            "descripcion": "MAGDALENA"
+        },
+        {
+            "id": "50",
+            "descripcion": "META"
+        },
+        {
+            "id": "52",
+            "descripcion": "NARIÑO"
+        },
+        {
+            "id": "54",
+            "descripcion": "NORTE SANTANDER"
+        },
+        {
+            "id": "63",
+            "descripcion": "QUINDIO"
+        },
+        {
+            "id": "66",
+            "descripcion": "RISARALDA"
+        },
+        {
+            "id": "68",
+            "descripcion": "SANTANDER"
+        },
+        {
+            "id": "70",
+            "descripcion": "SUCRE"
+        },
+        {
+            "id": "73",
+            "descripcion": "TOLIMA"
+        },
+        {
+            "id": "76",
+            "descripcion": "VALLE"
+        },
+        {
+            "id": "81",
+            "descripcion": "ARAUCA"
+        },
+        {
+            "id": "85",
+            "descripcion": "CASANARE"
+        },
+        {
+            "id": "86",
+            "descripcion": "PUTUMAYO"
+        },
+        {
+            "id": "88",
+            "descripcion": "SAN ANDRES"
+        },
+        {
+            "id": "91",
+            "descripcion": "AMAZONAS"
+        },
+        {
+            "id": "94",
+            "descripcion": "GUAINIA"
+        },
+        {
+            "id": "95",
+            "descripcion": "GUAVIARE"
+        },
+        {
+            "id": "97",
+            "descripcion": "VAUPES"
+        },
+        {
+            "id": "99",
+            "descripcion": "VICHADA"
+        }
+    ]
+}
