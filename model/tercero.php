@@ -20,6 +20,7 @@ class Tercero
     private $fechaCreacion;
     private $email;
     private $barrio;
+    private $direccion2;
 
     public function __construct()
     {
@@ -37,7 +38,8 @@ class Tercero
         $telefono,
         $fechaCreacion,
         $email,
-        $barrio)
+        $barrio,
+        $direccion2)
     {
         $this->tipoDocumento = $tipoDocumento;
         $this->documentoTercero = $documentoTercero;
@@ -51,6 +53,7 @@ class Tercero
         $this->fechaCreacion = $fechaCreacion;
         $this->email = $email;
         $this->barrio = $barrio;
+        $this->direccion2 = $direccion2;
 
         return $this->insertarDatosTercero();
     }
@@ -87,7 +90,7 @@ class Tercero
             INDICADORTERCEROACCIONISTA . INDICADORTERCEROOTROS .
             INDICADORTERCEROINTERNO . $contacto .
             llenarDatos('String', 40, $this->direccion1) .
-            llenarDatos('String', 40, DIRECCION2) .
+            llenarDatos('String', 40, direccion2) .
             llenarDatos('String', 40, DIRECCION3) .
             PAIS .
             llenarDatos('int', 2, $this->departamento, 0) .

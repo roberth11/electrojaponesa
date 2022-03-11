@@ -100,6 +100,20 @@ $documento = $_SESSION["documento"];
         <div class="separador"></div>
         <div class="row">
             <div class="col-6 mx-auto mt-3">
+                <div class="disenoInput">
+                    <label class="disenoLabel" for="txtDireccion1">Direcci&oacute;n*</label>
+                    <input type="text" id="txtDireccion1" name="txtDireccion1" data-source="direccion1"/>
+                </div>
+            </div>
+            <div class="col-6 mx-auto mt-3">
+                <div class="disenoInput">
+                    <label class="disenoLabel" for="txtDireccion2">Direcci&oacute;n adicional</label>
+                    <input type="text" id="txtDireccion2" name="txtDireccion2" data-source="direccion2"/>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-6 mx-auto mt-3">
                 <div class="selecdepartamento">
                     <select class="js-example-disabled-results" id="slDepartamento" name="slDepartamento"
                             maxlength="2">
@@ -114,16 +128,10 @@ $documento = $_SESSION["documento"];
             </div>
         </div>
         <div class="row">
-            <div class="col-6 mx-auto mt-3">
+            <div class="col-6 mt-3">
                 <div class="disenoInput">
-                    <label class="disenoLabel" for="txtDireccion1">Direcci&oacute;n*</label>
-                    <input type="text" id="txtDireccion1" name="txtDireccion1" data-source="direccion1"/>
-                </div>
-            </div>
-            <div class="col-6 mx-auto mt-3">
-                <div class="disenoInput">
-                    <label class="disenoLabel" for="txtBarrio">Barrio</label>
-                    <input type="text" id="txtBarrio" name="txtBarrio" class="form-control" data-source="barrio"/>
+                    <select class="js-example-disabled-results" id="slBarrio" name="slBarrio" maxlength="2">
+                    </select>
                 </div>
             </div>
         </div>
