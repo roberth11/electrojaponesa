@@ -74,7 +74,6 @@ $(document).ready(function () {
                             if (sbIdCiudad == key2) {
                                 $.each(valor, function (key3, barrio) {
                                     $('#slBarrio').append("<option value='" + barrio.id + "' >" + barrio.descripcion + "</option>");
-
                                 });
                             }
                         });
