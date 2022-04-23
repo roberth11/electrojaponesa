@@ -92,7 +92,7 @@ $(document).ready(function () {
     });
 
     jQuery.validator.addMethod("alphanumeric", function (value, element) {
-        return this.optional(element) || /^[A-Za-z0-9\u00f1\u00d1\s]+$/i.test(value);
+        return this.optional(element) || /^[A-Za-z0-ZÀ-ÿ-9\u00f1\u00d1\s]+$/i.test(value);
     }, "Solo letras, números");
 
     jQuery.validator.addMethod("validate_email", function (value, element) {
@@ -124,7 +124,8 @@ $(document).ready(function () {
                 txtApellido: {
                     required: true,
                     maxlength: 29,
-                    alphanumeric: true
+                    alphanumeric: true,
+
                 },
                 txtApellido2: {
                     maxlength: 29,
