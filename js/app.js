@@ -142,17 +142,13 @@ $(document).ready(function () {
                     maxlength: 255,
                     validate_email: true
                 },
-                txtDirreccion1: {
+                txtDireccion1: {
                     required: true,
                     maxlength: 40
                 },
                 slDepartamento: {
                     required: true,
                     maxlength: 2
-                },
-                txtDireccion1: {
-                    required: true,
-                    maxlength: 40
                 },
                 slCiudad: {
                     required: true,
@@ -161,6 +157,9 @@ $(document).ready(function () {
                 txtBarrio: {
                     maxlength: 40,
                     alphanumeric: true
+                },
+                txtDireccion2: {
+                    maxlength: 40
                 },
             },
             messages: {
