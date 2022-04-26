@@ -207,9 +207,8 @@ $(document).ready(function () {
                     required: "Campo requerido",
                     maxlength: "Maximo 3 caracteres"
                 },
-                txtBarrio: {
+                txtDireccion2: {
                     maxlength: "Maximo 40 caracteres",
-                    alphanumeric: "Caracter no valido"
                 },
             }
         }
