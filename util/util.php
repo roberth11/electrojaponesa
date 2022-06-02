@@ -2,12 +2,12 @@
 
 function llenarDatos($tipo, $cantidad, $valor, $orientacion = 1)
 {
+
     if ($tipo === "int") {
         $dato = str_pad($valor, $cantidad, "0", $orientacion === 0 ? STR_PAD_LEFT : STR_PAD_RIGHT);
     } else {
-        $dato = str_replace(" ", " ", str_pad($valor, $cantidad, '   ', STR_PAD_RIGHT));
+        $dato =mb_strtoupper($valor . str_pad('', $cantidad - mb_strlen(mb_strtoupper($valor,'UTF-8')), "   "));
     }
-
     return $dato;
 }
 
