@@ -114,10 +114,18 @@ $documento = $_SESSION["documento"];
             </div>
         </div>
         <div class="row">
+            <div class="col-6 mt-3">
+                <div class="disenoInput">
+                    <select class="js-example-disabled-results" id="slBarrio" name="slBarrio" maxlength="2">
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="row">
             <div class="col-6 mx-auto mt-3">
                 <div class="disenoInput">
                     <label class="disenoLabel" for="txtDireccion1">Direcci&oacute;n*</label>
-                    <input type="text" id="txtDireccion1" name="txtDireccion1" data-source="direccion1"/>
+                    <input type="text" id="txtDireccion1" name="txtDireccion1" data-source="txtDireccion1"/>
                 </div>
             </div>
             <div class="col-6 mx-auto mt-3">
@@ -128,6 +136,7 @@ $documento = $_SESSION["documento"];
             </div>
         </div>
     </div>
+
     <div class="row">
         <div id="seccionPolitica" class="col-lg-12 text-center justify-content-center mt-2">
             <input type="checkbox" id="txtPolitica" name="txtPolitica"> Acepto* <a id="linkModal" class="linkModal">

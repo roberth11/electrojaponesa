@@ -21,7 +21,7 @@ if (isset($_POST) && !empty($_POST)) {
     $direccion1 = strtoupper($_POST['txtDireccion1']); //Tipo String, Longitud 40
     $ciudad = $_POST['slCiudad']; //Tipo String, Longitud 3
     $departamento = $_POST['slDepartamento']; //Tipo String, Longitud 2
-    $barrio = strtoupper($_POST['txtBarrio']); //Tipo String, Longitud 2
+    $barrio = strtoupper($_POST['slBarrio']); //Tipo String, Longitud 2
     $email = strtoupper($_POST['txtCorreo']); //Tipo String, Longitud 255
     $fechaCreacion = date("Ymd"); //Tipo String, Longitud 8
     $direccion2 = strtoupper($_POST['txtDireccion2']); //Tipo String, Longitud 8

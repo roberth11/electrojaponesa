@@ -74,7 +74,6 @@ $(document).ready(function () {
                             if (sbIdCiudad == key2) {
                                 $.each(valor, function (key3, barrio) {
                                     $('#slBarrio').append("<option value='" + barrio.id + "' >" + barrio.descripcion + "</option>");
-
                                 });
                             }
                         });
@@ -93,7 +92,7 @@ $(document).ready(function () {
     });
 
     jQuery.validator.addMethod("alphanumeric", function (value, element) {
-        return this.optional(element) || /^[A-Za-z0-9\u00f1\u00d1\s]+$/i.test(value);
+        return this.optional(element) || /^[A-Za-z0-ZÀ-ÿ-9\u00f1\u00d1\s]+$/i.test(value);
     }, "Solo letras, números");
 
     jQuery.validator.addMethod("validate_email", function (value, element) {
@@ -125,7 +124,8 @@ $(document).ready(function () {
                 txtApellido: {
                     required: true,
                     maxlength: 29,
-                    alphanumeric: true
+                    alphanumeric: true,
+
                 },
                 txtApellido2: {
                     maxlength: 29,
@@ -142,17 +142,13 @@ $(document).ready(function () {
                     maxlength: 255,
                     validate_email: true
                 },
-                txtDirreccion1: {
+                txtDireccion1: {
                     required: true,
                     maxlength: 40
                 },
                 slDepartamento: {
                     required: true,
                     maxlength: 2
-                },
-                txtDireccion1: {
-                    required: true,
-                    maxlength: 40
                 },
                 slCiudad: {
                     required: true,
@@ -161,6 +157,9 @@ $(document).ready(function () {
                 txtBarrio: {
                     maxlength: 40,
                     alphanumeric: true
+                },
+                txtDireccion2: {
+                    maxlength: 40
                 },
             },
             messages: {
@@ -208,9 +207,8 @@ $(document).ready(function () {
                     required: "Campo requerido",
                     maxlength: "Maximo 3 caracteres"
                 },
-                txtBarrio: {
+                txtDireccion2: {
                     maxlength: "Maximo 40 caracteres",
-                    alphanumeric: "Caracter no valido"
                 },
             }
         }
